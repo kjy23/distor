@@ -1,0 +1,32 @@
+name: Generate DistroTV M3U
+
+on:
+  workflow_dispatch: # 允许手动触发
+  schedule:
+    - cron: '0 */6 * * *' # 每6小时运行一次 (例如：UTC时间 0点, 6点, 12点, 18点)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x' # 使用最新的 Python 3 版本
+
+    - name: Install dependencies
+      run: pip install requests xsdata xmltv
+
+    - name: Generate M3U
+      run: python distrotv_grabber.py # 运行你的 Python 脚本
+
+    - name: Commit and push M3U if changed
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add distrotv_channels.m3u
+        git commit -m "Update DistroTV M3U" || echo "No changes to commit"
+        git push || echo "Nothing to push"
