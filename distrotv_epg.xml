@@ -1012,11 +1012,6 @@
     <desc>The team captains ride the mechanical bull for a serious purpose and Alex and Armen fight for a place in the semi final in Portugal. Drago makes a spectacular ride in a giant ball butt things dont go as planned.</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/22696/enfusion-reality/enfusion-reality-season-1-episode-11_20191206_234157.jpg</icon>
   </programme>
-  <programme start="20250523183819 +0000" stop="20250523185127 +0000" channel="titanic-tv" clumpidx="0/1">
-    <title>Titanic's Three Bladed Propeller</title>
-    <desc>Based on a famous 1911 photograph of Olympic in dry dock, it has always been assumed that Titanic had an identical four-bladed center propeller. Titanic Channel Host Mark Chirnside has uncovered a Harland &amp; Wolff document that describes a three-bladed...</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/22719/science-technology/titanics-three-bladed-propeller_20191206_234157.jpg</icon>
-  </programme>
   <programme start="20250523185127 +0000" stop="20250523190045 +0000" channel="titanic-tv" clumpidx="0/1">
     <title>Submarine Signals</title>
     <desc>In 1912, the greatest threat to shipping was not ice - it was fog. Bill Sauder explains how submarine signaling helped navigate ships like Titanic through treacherous waters.</desc>
@@ -1127,6 +1122,11 @@
     <desc>Senan Molony has uncovered a completely overlooked Irish document, that seems to confirm Captain Smith was not legally in command of Titanic when she sailed from Southampton on April 10, 1912.</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/22719/passengers-crew/was-captain-smith-legally-in-command-of-the-titanic_20191206_234157.jpg</icon>
   </programme>
+  <programme start="20250523225327 +0000" stop="20250523230541 +0000" channel="titanic-tv" clumpidx="0/1">
+    <title>A Thief on Titanic</title>
+    <desc>It’s always been a mystery why so many passengers on board Titanic were traveling incognito. Senan Molony uncovers the identity of one secret traveler, who ended up being a thief.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/22719/passengers-crew/a-thief-on-titanic_20191206_234157.jpg</icon>
+  </programme>
   <programme start="20250523183952 +0000" stop="20250523190905 +0000" channel="horizon-sports" clumpidx="0/1">
     <title>The Outdoor Sports Show 2023 - Episode 11</title>
     <desc>We commence this episode by journeying to Spain for the Palma Marathon Mallorca, celebrating its 19th edition this year. Next stop is Portugal and the TRITON World Series, renowned in the triathlon scene, which concluded its 2023 season in the Algarve region. Our adventure continues in Croatia, where Istria300 has burgeoned into Europes fastest-growing cycling project. The third edition attracted 2,800 participants from 40 countries to Porec. Next we move to Italy for a short presentation of the Dobbiaco-Cortina Cross Country Race 2024. Then we shift to France for the Equestrian European Championship Sports. We conclude our episode in Saudi Arabia with Tough Mudder obstacle course races which will happen soon in AlUla.</desc>
@@ -1177,15 +1177,10 @@
     <desc>Whether it was a need for adventure or to stop a life thats going too fast or to reconnect with the essentials, Adrien did a 6-month cycling tour of Europe in 2022. To make the adventure even more beautiful and intense to experience, it was natural for him to associate it with an important cause, and one that is close to his heart : Autism. Xavier is his 15 year old autistic nephew, and as he loves cycling as much as him, Adrien wanted to help the association “Des Rêves pour Xavier” (Dreams for Xavier) to finance an electric tandem. Adrien’s other goal was to raise autism awareness among as many people as possible.</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/22705/vid/hs-cb_tQstRaFL-236107/thumbh.jpg</icon>
   </programme>
-  <programme start="20250523183820 +0000" stop="20250523185023 +0000" channel="the-boat-show" clumpidx="0/1">
-    <title>Solaris 60 – Blue water ambitions</title>
-    <desc>Hop on-board together with Antonio Vettese on the boat that become the emblem of blue water ambitions, Solaris 60, constructed in Italy by Solaris Yachts.</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/22706/vid/tbs-sb_LsE4GJYV/thumbh.jpg</icon>
-  </programme>
-  <programme start="20250523185023 +0000" stop="20250523185709 +0000" channel="the-boat-show" clumpidx="0/1">
-    <title>Y Yachts Y9 - Soft minimalism</title>
-    <desc>Hop on board the Y 9 is the latest model from Y Yachts, a German company founded by Michael Smith and specializing in premium yacht construction.</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/22706/vid/tbs-sb_Ab3fuisc/thumbh.jpg</icon>
+  <programme start="20250523225511 +0000" stop="20250523232436 +0000" channel="horizon-sports" clumpidx="0/1">
+    <title>Inside Desertus Bikus (Eng)</title>
+    <desc>Josh partcipates to Desertus Bikus, an ultra cycling race that crosses Spain and Portugal starting in Hasparren in the Basque Country and finishing in Setubal Portugal. Josh is cycling during 1400 km across desert areas, villages, gravel tracks and asphalt roads.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/22705/vid/hs-cb_UMywx26d-251716/thumbh.jpg</icon>
   </programme>
   <programme start="20250523185709 +0000" stop="20250523190641 +0000" channel="the-boat-show" clumpidx="0/1">
     <title>An habitability beyond its size</title>
@@ -1281,11 +1276,6 @@
     <title>Cataldo Aprea – Interview with</title>
     <desc>Cataldo Aprea, founder and CEO of Apreamare, talks about himself and Apreamare in an exclusive interview.</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/22706/vid/tbs-sl_9nIKM3qv/thumbh.jpg</icon>
-  </programme>
-  <programme start="20250523184139 +0000" stop="20250523184907 +0000" channel="sportskool-tv" clumpidx="0/1">
-    <title>Rebounding Basics</title>
-    <desc>Bill Walton teaches the theory and techniques of rebounding.</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/22697/basketball/rebounding-basics_20191206_234157.jpg</icon>
   </programme>
   <programme start="20250523184907 +0000" stop="20250523190115 +0000" channel="sportskool-tv" clumpidx="0/1">
     <title>Shooting Basics</title>
@@ -1397,10 +1387,15 @@
     <desc>Get race-ready with triathletes Eric Harr &amp; Lokelani McMichael.</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/22697/running/marathon-2-race-day_20191206_234157.jpg</icon>
   </programme>
-  <programme start="20250523180000 +0000" stop="20250523185255 +0000" channel="electricnow" clumpidx="0/1">
-    <title>Leverage - 16 Year Anniversary - The Boys' Night Out Job</title>
-    <desc>Nate, Eliot and Hardision are forced to intervene when Hurley returns.</desc>
-    <icon>https://img.static-ottera.com/prod/elec/video/thumbnails/widescreen/1920x1080/leverage_s04e14_en.jpg</icon>
+  <programme start="20250523224947 +0000" stop="20250523225630 +0000" channel="sportskool-tv" clumpidx="0/1">
+    <title>Baby Workout</title>
+    <desc>Incorporate your child in your daily workout.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/22697/fitness/baby-workout_20191206_234157.jpg</icon>
+  </programme>
+  <programme start="20250523225630 +0000" stop="20250523231329 +0000" channel="sportskool-tv" clumpidx="0/1">
+    <title>Bode Circuit Training</title>
+    <desc>No time for the gym? Join Bode Miller for this quick, total body home training session.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/22697/fitness/bode-circuit-training_20191206_234157.jpg</icon>
   </programme>
   <programme start="20250523190000 +0000" stop="20250523195254 +0000" channel="electricnow" clumpidx="0/1">
     <title>Leverage - 16 Year Anniversary - The Lonely Hearts Job</title>
@@ -1436,6 +1431,11 @@
     <title>Best Friend</title>
     <desc>Lourdes best friend from college comes to visit. She finds Lourdes to be a bit " boring" after settling into married life. Lourdes sets out to prove that she still has a wild side.</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/22731/things-we-do-for-love/best-friend_thumbh_20190808_215533.jpg</icon>
+  </programme>
+  <programme start="20250523224855 +0000" stop="20250523232416 +0000" channel="movie-kingdom" clumpidx="0/1">
+    <title>Funk Connection</title>
+    <desc>Darrens dad is much too old to be putting the band back together again, or is he?</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/22731/things-we-do-for-love/funk-connection_thumbh_20190808_215533.jpg</icon>
   </programme>
   <programme start="20250523184346 +0000" stop="20250523191036 +0000" channel="monarch" clumpidx="0/1">
     <title>The Blowouts</title>
@@ -1671,6 +1671,11 @@
     <desc/>
     <icon/>
   </programme>
+  <programme start="20250523225032 +0000" stop="20250524000042 +0000" channel="fireplace-lounge" clumpidx="0/1">
+    <title>Calming Outdoor Campfire</title>
+    <desc/>
+    <icon/>
+  </programme>
   <programme start="20250523175950 +0000" stop="20250523190950 +0000" channel="fish-tank" clumpidx="0/1">
     <title>Calming Jellyfish</title>
     <desc/>
@@ -1738,6 +1743,11 @@
   </programme>
   <programme start="20250523213840 +0000" stop="20250523225110 +0000" channel="island-escape" clumpidx="0/1">
     <title>Sunset Beach With Music</title>
+    <desc/>
+    <icon/>
+  </programme>
+  <programme start="20250523225110 +0000" stop="20250524000130 +0000" channel="island-escape" clumpidx="0/1">
+    <title>Sunset Beach</title>
     <desc/>
     <icon/>
   </programme>
@@ -1816,11 +1826,6 @@
     <desc/>
     <icon/>
   </programme>
-  <programme start="20250523184627 +0000" stop="20250523185034 +0000" channel="mma-junkie" clumpidx="0/1">
-    <title>Cory Sandhagen vs. Umar Nurmagomedov Prediction | UFC on ABC 7 Breakdown</title>
-    <desc>Who will win Cory Sandhagen vs. Umar Nurmagomedov? MMA Junkie fight analyst Dan Tom offers his breakdown and prediction for the UFC on ABC 7 main event on Yas Island, Abu Dhabi.Full event coverage: https://mmajunkie.usatoday.com/tag/ufc-on-abc-7Be sure to subscribe to receive updates when we post new content: http://bit.ly/3YstIQdFor the latest UFC and MMA news: https://mmajunkie.usatoday.comPart of the USA TODAY network: http://www.usatoday.com#UFCAbuDhabi #CorySandhagen #UmarNurmagomedov</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/22814/vid/mmajunkie_7wErxnder7RXV3E/thumbh.jpg</icon>
-  </programme>
   <programme start="20250523185034 +0000" stop="20250523190004 +0000" channel="mma-junkie" clumpidx="0/1">
     <title>Chad Mendes Previews ADXC 5, Open to BKFC Return Under One Condition</title>
     <desc>MMA Junkie reporter Farah Hannoun catches up with former UFC standout Chad Mendes in Abu Dhabi before he competes against Diego Brandao at ADXC 5.Be sure to subscribe to receive updates when we post new content: http://bit.ly/3YstIQdFor the latest UFC and MMA news: https://mmajunkie.usatoday.comPart of the USA TODAY network: http://www.usatoday.com#mma #mmajunkie</desc>
@@ -1846,11 +1851,6 @@
   <programme start="20250523220000 +0000" stop="20250523230000 +0000" channel="newsmax-tv" clumpidx="0/1">
     <title>The Record with Greta Van Susteren</title>
     <desc>Greta Van Susteren gives the big news from Washington, D.C., New York, across America and around the world.</desc>
-  </programme>
-  <programme start="20250523184351 +0000" stop="20250523185804 +0000" channel="young-hollywood" clumpidx="0/1">
-    <title>Drake Bell Performs Live &amp; Reveals Why He Agreed To Do Quiet On Set Doc</title>
-    <desc>Actor and singer discusses his participation in controversial documentary and performs a new song.</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/22823/vid/yh_video44143148.6369281770112/thumbh.jpg</icon>
   </programme>
   <programme start="20250523185804 +0000" stop="20250523190457 +0000" channel="young-hollywood" clumpidx="0/1">
     <title>Snoop Dogg's Daughter Cori Broadus Launches Inclusive Beauty Collection</title>
@@ -1990,11 +1990,6 @@
     <title>Bare Knuckle Fighting Championship</title>
     <desc>BKFC 69 featured a massive 12-fight card from Atlanta.</desc>
   </programme>
-  <programme start="20250523174256 +0000" stop="20250523184956 +0000" channel="hard-knocks-fighting" clumpidx="0/1">
-    <title>Hard Knocks</title>
-    <desc>A private pre-season event held in a secret warehouse in Budapest, Hungary, the inaugural Karate Combat: Genesis event took place on February 3, 2018. The event showcases the incredible depth of the fight roster highlighting many karate legends in various weight classes, competing for the first time ever in this new sporting league.</desc>
-    <icon>https://d3kefxscf5gq6l.cloudfront.net/file/thumbnail/1f877ca2-fe9b-4caf-b9a4-94ecc3211cc3.jpg</icon>
-  </programme>
   <programme start="20250523184956 +0000" stop="20250523194426 +0000" channel="hard-knocks-fighting" clumpidx="0/1">
     <title>Hard Knocks</title>
     <desc>The Premier MMA promotion, Telecast live across the globe Showcasing some of the worlds best MMA athletes.</desc>
@@ -2025,25 +2020,10 @@
     <desc>Benny Carr v. Kieran Rice</desc>
     <icon>https://d3kefxscf5gq6l.cloudfront.net/file/thumbnail/2c8062fd-bfed-4b0b-8e80-b9f155f99dad.jpg</icon>
   </programme>
-  <programme start="20250523184640 +0000" stop="20250523184936 +0000" channel="acc-1" clumpidx="0/1">
-    <title>2022 NBA Draft: ACC Recap</title>
-    <desc>The 2022 NBA Draft was a good night for the ACC and Duke players.  Paolo Banchero became the 12 ACC player and 5th player from Duke to be taken #1 overall in the NBA Draft, when he was selected by the Orlando Magic.</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/232456.jpg</icon>
-  </programme>
-  <programme start="20250523184936 +0000" stop="20250523185320 +0000" channel="acc-1" clumpidx="0/1">
-    <title>ACC By The Numbers: 2022 NBA Draft</title>
-    <desc>It was a record night for the ACC and the Duke Blue Devils.  For the 12th time in ACC history and the 5th time in Duke history, they have the #1 pick in the NBA draft with Paolo Banchero being selected by the Orlando Magic.</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/232455.jpg</icon>
-  </programme>
-  <programme start="20250523185320 +0000" stop="20250523185629 +0000" channel="acc-1" clumpidx="0/1">
-    <title>Boston College RB AJ Dillon | ACC Unsung Heroes</title>
-    <desc>Running back AJ Dillion was overshadowed nationally by Clemsons Travis Etienne, but Dillion was one of the most productive runners in ACC history, and arguably the best running back in Eagles history.</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/232454.jpg</icon>
-  </programme>
-  <programme start="20250523185629 +0000" stop="20250523185855 +0000" channel="acc-1" clumpidx="0/1">
-    <title>ACC Elite Performances: Clemson WR Tee Higgins' Championship Game MVP Performance</title>
-    <desc>-</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/232453.jpg</icon>
+  <programme start="20250523225835 +0000" stop="20250523233400 +0000" channel="hard-knocks-fighting" clumpidx="0/1">
+    <title>Hard Knocks</title>
+    <desc>Kelsey Andries v. Allene Chernick</desc>
+    <icon>https://d3kefxscf5gq6l.cloudfront.net/file/thumbnail/c62312e7-d243-4935-b6f8-258de20b50b2.jpg</icon>
   </programme>
   <programme start="20250523185855 +0000" stop="20250523190403 +0000" channel="acc-1" clumpidx="0/1">
     <title>Do Ohio State, FSU and Texas Have Paths To The Playoffs</title>
@@ -2460,6 +2440,36 @@
     <desc>Bethune-Cookman vs. Miami: The #16 Miami Hurricanes won in their season opener, defeating the Bethune-Cookman Wildcats 70-13.  Quarterback Tyler Van Dyke was 13-16 for 193 yards and two touchdowns.</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/225913.jpg</icon>
   </programme>
+  <programme start="20250523224926 +0000" stop="20250523225016 +0000" channel="acc-1" clumpidx="0/1">
+    <title>Syracuse's Garrett Williams Picks Off A Would Be TD Pass | Must See Moment</title>
+    <desc>Louisvilles Malik Cunningham thought he was going to have Dee Wiggins wide open deep in the end zone, but Syracuse defensive back Garrett Williams makes a great recovery to not only defend the pass but actually pick it off.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/225912.jpg</icon>
+  </programme>
+  <programme start="20250523225016 +0000" stop="20250523225051 +0000" channel="acc-1" clumpidx="0/1">
+    <title>Louisville Reaches Into Their Bag Of Tricks | Must See Moment</title>
+    <desc>It looked like Louisvilles Braden Smith was going to be running a wide receiver reverse, but instead, the Cardinals got tricky and Smith launched the ball down the field to Tyler Hudson to set up Louisville with a first-and-goal.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/225911.jpg</icon>
+  </programme>
+  <programme start="20250523225051 +0000" stop="20250523225345 +0000" channel="acc-1" clumpidx="0/1">
+    <title>Syracuse's Sean Tucker Starts 2022 With A Bang | Must See Moment</title>
+    <desc>Not even one quarter into the 2022 season and Syracuse running back Sean Tucker is already in midseason form.  Watch as he catches a simple screen pass and then takes off 55 yards to the end zone in this ACC Must See Moment.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/225910.jpg</icon>
+  </programme>
+  <programme start="20250523225345 +0000" stop="20250523225712 +0000" channel="acc-1" clumpidx="0/1">
+    <title>Louisville vs. Syracuse Football Highlights (2022)</title>
+    <desc>Louisville vs. Syracuse:  The Orange had a statement win in their season opener, defeating Louisville, 31-7.  At one point in the second half, the Syracuse defense forced three turnovers on three consecutive Louisville drives.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/225909.jpg</icon>
+  </programme>
+  <programme start="20250523225712 +0000" stop="20250523225926 +0000" channel="acc-1" clumpidx="0/1">
+    <title>Syracuse's Garrett Shrader Leads Orange To Big Win Over Louisville</title>
+    <desc>Quarterback Garrett Shrader played very well and led Syracuse to a commanding win over Louisville in The Dome. Shrader completed 18 of 25 passes for 237 yards and 2 touchdowns.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/225908.jpg</icon>
+  </programme>
+  <programme start="20250523225926 +0000" stop="20250523230331 +0000" channel="acc-1" clumpidx="0/1">
+    <title>Syracuse's Sean Tucker Already In Midseason Form vs. Louisville</title>
+    <desc>Syracuse running back Sean Tucker picked up in 2022 right from where he left off in 2021.  He was a dominant player in the Oranges season-opening win over Louisville. Tucker ran the ball 21 times for 98 yards and a touchdown.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/225907.jpg</icon>
+  </programme>
   <programme start="20250523184205 +0000" stop="20250523191019 +0000" channel="entrepreneur-1" clumpidx="0/1">
     <title>That's a Flop</title>
     <desc>Many of the companies in this weeks episode still have a lot left to prove.</desc>
@@ -2555,6 +2565,11 @@
     <desc>Rockets can take our space program to the next frontier or deliver an enemy target back to the stone ages. It takes a balance of science and courage to build and deploy these payload delivery systems, as well as their more sophisticated, guidance-controlled siblings, missiles.</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/41205.jpg</icon>
   </programme>
+  <programme start="20250523225134 +0000" stop="20250523231934 +0000" channel="sword-1" clumpidx="0/1">
+    <title>Sword &amp; Shield, Episode 16</title>
+    <desc>Keep your eye on the target alongside soldiers on the training grounds, as they master the weapons used by modern military forces.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/41213.jpg</icon>
+  </programme>
   <programme start="20250523180000 +0000" stop="20250523190000 +0000" channel="oan-encore" clumpidx="0/1">
     <title>A Call For Unity</title>
     <desc>Whitehouse Deputy Press Sec. Kush Desai makes Pres. Trump's case for passing the Big Beautiful Budget &amp; Rep. Mary Miller talks deportations and judge's interfering also, Honorary Secret Service member, DJ Daniel</desc>
@@ -2619,10 +2634,6 @@
     <title>The Black Keys - Live at Main Square Festival</title>
     <desc>Main Square Festival is a music festival that takes place in Arras, France, lasting three days.</desc>
   </programme>
-  <programme start="20250523175918 +0000" stop="20250523185914 +0000" channel="stingray-naturescape" clumpidx="0/1">
-    <title>Above the Dolomites</title>
-    <desc>Soar up and over Italy's iconic mountain range for a full hour of inspiration and relaxation with "Above the Dolomites." Featuring cinematography by new collaborator Ryan Shirley, and synchronized to new healing music by Antonio Resende, it offers some simply stunning views that showcase just why the Dolomites might be the world's most epic mountain range.</desc>
-  </programme>
   <programme start="20250523185914 +0000" stop="20250523195910 +0000" channel="stingray-naturescape" clumpidx="0/1">
     <title>Nature sceneries</title>
     <desc>Experience peaceful nature scenes that will soothe body and soul.</desc>
@@ -2638,6 +2649,10 @@
   <programme start="20250523215901 +0000" stop="20250523225857 +0000" channel="stingray-naturescape" clumpidx="0/1">
     <title>Good Morning</title>
     <desc>The sound of waves crashing on the shores of Hawaii’s Red Sand Beach will energize you for the day to come.</desc>
+  </programme>
+  <programme start="20250523225857 +0000" stop="20250523235853 +0000" channel="stingray-naturescape" clumpidx="0/1">
+    <title>Houhora Beach: New Zealand</title>
+    <desc>The lovely seaside hamlet of Houhora is New Zealand's best-kept secret. Enjoy the surrounding beaches that make this destination unforgettable.</desc>
   </programme>
   <programme start="20250523181500 +0000" stop="20250523195758 +0000" channel="stingray-classica" clumpidx="0/1">
     <title>Jan Latham-Koenig, Symfonieorkest Vlaanderen &amp; Pascal Amoyel - Grieg's Piano Concerto &amp; Beethoven Symphony No. 7</title>
@@ -2682,6 +2697,10 @@
   <programme start="20250523214427 +0000" stop="20250523225701 +0000" channel="stingray-djazz" clumpidx="0/1">
     <title>Robert Glasper &amp; Jason Moran - La Gaité Lyrique: Robert Glasper &amp; Jason Moran</title>
     <desc>As part of the Blue Note Jazz Festival and Blue Note Records’ 75th anniversary, pianists Robert Glasper and Jason Moran delivered a stunning jazz piano duet, resulting in an exciting exploration of the great history of jazz. An intricate knowledge of African-American music is infused with modern energy. The two musicians reinterpret the stride piano tradition through captivating original songs and personal interpretations of the music of Albert Ammons, Andrew Hill, Thelonious Monk, Ornette Coleman and Herbie Hancock.</desc>
+  </programme>
+  <programme start="20250523225701 +0000" stop="20250523230732 +0000" channel="stingray-djazz" clumpidx="0/1">
+    <title>Christian Scott - Blue Monk</title>
+    <desc>In 2019, the vibrant city of Sofia, Bulgaria, hosted the International A to JazZ Festival. Among the featured acts was the trailblazing jazz trumpeter Christian Scott aTunde Adjuah. This genre-defying artist captivated the audience with his eclectic “stretch music”; an approach that incorporates hip-hop and reaches back through the American canon into African percussion and its rich melodic content. Trumpeter Christian Scott aTunde Adjuah’s quintet, which includes drummer Corey Fonville, percussionist Weedie Braimah, pianist Lawrence Fields, and bass guitarist Max Mucha, delivered a performance that defied boundaries and expectations.</desc>
   </programme>
   <programme start="20250523180000 +0000" stop="20250523190000 +0000" channel="schwab-network" clumpidx="0/1">
     <title>The Watch List</title>
@@ -2747,6 +2766,11 @@
     <title>World Poker Tour</title>
     <desc>With 412 entries, the WPT bestbet Bounty Scramble generated a prize pool of nearly $2 million.</desc>
     <icon>https://d3kefxscf5gq6l.cloudfront.net/file/thumbnail/90570b0e-6ae1-4e22-a232-f23b55d2dbde.jpg</icon>
+  </programme>
+  <programme start="20250523225022 +0000" stop="20250523234654 +0000" channel="world-poker-tour" clumpidx="0/1">
+    <title>World Poker Tour</title>
+    <desc>Four players, Benjamin Zamini, Marvin Karlins, Stan Jablonski, and Tyler Patterson, compete at the WPT bestbet Jacksonville Bounty Scramble for the more than $375,000 first-place prize and a seat into the Monster WPT Tournament of Champions.?</desc>
+    <icon>https://d3kefxscf5gq6l.cloudfront.net/file/thumbnail/3ddd6c82-ce4b-440f-afe9-afe39ca665c4.jpg</icon>
   </programme>
   <programme start="20250523184019 +0000" stop="20250523194846 +0000" channel="humor-mill" clumpidx="0/1">
     <title>Box Seats - Ep.36</title>
@@ -2867,36 +2891,6 @@
     <title>WellWorldTV</title>
     <desc/>
     <icon/>
-  </programme>
-  <programme start="20250523183015 +0000" stop="20250523185445 +0000" channel="dot-esports" clumpidx="0/1">
-    <title>PaladinAmber's journey, tips for creators, and the most important equipment for new streamers</title>
-    <desc>This video is #sponsored by Razer. For Razers Win It Your Way campaign, we sat down with variety creator and streamer from down under, PaladinAmber. She told us about her journey and how she got started in content creation as well as shared some tips for aspiring content creators in the streaming space.Follow us on Twitter: http://www.twitter.com/dotesportsLike us on Facebook: http://www.facebook.com/dotesportsRead more at our website: http://www.dotesports.com</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/191567.jpg</icon>
-  </programme>
-  <programme start="20250523185445 +0000" stop="20250523185543 +0000" channel="dot-esports" clumpidx="0/1">
-    <title>Hasan claims xQc profits off his viewers' gambling losses #shorts</title>
-    <desc>Hasan tried to give fans a simple explanation for how "f**king bad" streamers gambling partnerships can be by detailing exactly what happens when fans who watch a sponsored gambling stream use a referral code from a stream.Read more on our website: https://dotesports.com/streaming/news/hasan-xqc-gambling-fans-losing-moneyFollow us on Twitter: http://www.twitter.com/dotesportsLike us on Facebook: http://www.facebook.com/dotesports</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/170864.jpg</icon>
-  </programme>
-  <programme start="20250523185543 +0000" stop="20250523185638 +0000" channel="dot-esports" clumpidx="0/1">
-    <title>Tyler1 on if he would accept a $20 million per month gambling sponsorship #shorts</title>
-    <desc>Tyler1 was asked whether or not hed take a gambling sponsorship for $20 million per month. His response showed hes a man of principles.Read more on our website: http://www.dotesports.comFollow us on Twitter: http://www.twitter.com/dotesportsLike us on Facebook: http://www.facebook.com/dotesports</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/170865.jpg</icon>
-  </programme>
-  <programme start="20250523185638 +0000" stop="20250523185734 +0000" channel="dot-esports" clumpidx="0/1">
-    <title>Mizkif on gambling sponsorships: "Everyone has a price" #shorts</title>
-    <desc>XQcs gambling controversy prompted other Twitch stars, such as Mizkif, to share their thoughts on his new deal.The OTK founding member and owner, unlike many fans and other streamers, did not condemn xQc’s actions.Read more on our website: https://dotesports.com/streaming/news/mizkif-comments-gambling-sponsors-xqcFollow us on Twitter: http://www.twitter.com/dotesportsLike us on Facebook: http://www.facebook.com/dotesports</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/170866.jpg</icon>
-  </programme>
-  <programme start="20250523185734 +0000" stop="20250523185833 +0000" channel="dot-esports" clumpidx="0/1">
-    <title>One year after almost retiring, Pokimane says she's "very happy" #shorts</title>
-    <desc>Pokimane has declared she’s “really happy” again—the 26-year-old won’t be walking away from her journey anytime soon.Read more on our website: https://dotesports.com/streaming/news/after-nearly-retiring-last-year-pokimane-is-finally-really-happy-on-twitch-againFollow us on Twitter: http://www.twitter.com/dotesportsLike us on Facebook: http://www.facebook.com/dotesports</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/170867.jpg</icon>
-  </programme>
-  <programme start="20250523185833 +0000" stop="20250523185931 +0000" channel="dot-esports" clumpidx="0/1">
-    <title>Sykkuno says he wouldn't participate in the gambling meta #shorts</title>
-    <desc>Former Twitch streamer and recent YouTube signee Sykkuno gave his opinion on the rise of Twitch’s gambling meta that he has seen since departing from the platform.Read more on our website: https://dotesports.com/streaming/news/sykkuno-never-gambling-twitch-commentsFollow us on Twitter: http://www.twitter.com/dotesportsLike us on Facebook: http://www.facebook.com/dotesports</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/170868.jpg</icon>
   </programme>
   <programme start="20250523185931 +0000" stop="20250523190008 +0000" channel="dot-esports" clumpidx="0/1">
     <title>Version1 is looking to replace Zander #shorts</title>
@@ -3343,6 +3337,11 @@
     <desc>In the first mid-split rotser move of the 2022 LEC Spring Split, Excel Esports signed 2019 world finalist support Mihael "Mikyx" Mehle, formerly of G2 Esports. He replaced second-year player Henk "Advienne" Reijenga on the roster of an org that is hoping, with this new addition, to make the LEC playoffs for the first time in its history.Mikyx joins Pablo "Bloop" Suárez to talk about his Excel debut, expectations for himself and his team, and playing against his former teammates in the LEC.Timecodes:0:00 - Introduction0:14 - Mikyxs first week back in the LEC0:48 - Coming back to a team environment1:39 - What he brings to the team over Advienne, personal goals on the team3:18 - Syenrgy with Patrik, thoughts on other bot lanes in the LEC4:33 - Expectations for Excel this split5:28 - Short-term and long-term improvements, scrims vs. stage performances6:24 - Excels coaching staff, reunion and relationship with Nelson7:30 - Leaving G2, offseason, wanting to stay in Europe9:21 - Time between joining the roster and playing LEC matches9:45 - Thoughts on facing G2, rest of former teammatesFollow us on Twitter: http://www.twitter.com/dotesportsLike us on Facebook: http://www.facebook.com/dotesportsRead more at our website: http://www.dotesports.com</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/157745.jpg</icon>
   </programme>
+  <programme start="20250523225758 +0000" stop="20250523230402 +0000" channel="dot-esports" clumpidx="0/1">
+    <title>Who doesn't love memes?!?! | Our top 10 favorite emote meme references in League of Legends</title>
+    <desc>Memes are an indispensible part of our culture, just like emotes are an essential part of player expression in League of Legends. So when Riot decided to combine both, the possibilities for crossovers and taking emotes to the next level were endless. From anime to Nick Young, here are our top 10 favorite emote meme references in League of Legends.Follow us on Twitter: http://www.twitter.com/dotesportsLike us on Facebook: http://www.facebook.com/dotesportsRead more on our website: http://www.dotesports.com</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/157746.jpg</icon>
+  </programme>
   <programme start="20250523165647 +0000" stop="20250523194705 +0000" channel="24-hour-free-movies" clumpidx="0/1">
     <title>The Knot</title>
     <desc>Soul-mates Alexandra and Jeremy are getting married. At least that’s the plan. Unfortunately for them, nonchalant best man Peter, bridesmaid Sarah and an army of nay-sayers don’t believe they are meant to be together. Can missing bridesmaids, crashed cars, a trip to the ER, and a delivery of pig testicles stand in the way of true love? Starring Talulah Riley, Mena Suvari, Noel Clarke</desc>
@@ -3444,6 +3443,11 @@
     <desc/>
     <icon>https://d15wqvt0xm15k4.cloudfront.net/file/thumbnail/c2cecf9e-8886-489b-a1e7-2d0a00f24174.jpg</icon>
   </programme>
+  <programme start="20250523225958 +0000" stop="20250523232758 +0000" channel="channel-fight" clumpidx="0/1">
+    <title>6 Ways to Close The Distance and Smash Your Opponent to the Ground</title>
+    <desc>Combat-tested ways to close the distance to your opponent to strike or grapple and finish the fight</desc>
+    <icon>https://d15wqvt0xm15k4.cloudfront.net/file/thumbnail/15b153da-ca88-4ada-9137-801c49035c4e.jpg</icon>
+  </programme>
   <programme start="20250523180000 +0000" stop="20250523190000 +0000" channel="cooking-panda" clumpidx="0/1">
     <title>Cooking Panda</title>
     <desc>Welcome to Cooking Panda</desc>
@@ -3478,21 +3482,6 @@
     <title>UFA 312 - Up Next Fighting (UNF) - Morales vs. Ware</title>
     <desc>United Fight Alliance presents Up Next Fighting, Morales versus Ware from Burbank, CA. In this episode of UNF Brady Huang faces Andrew Ewell in a featherweight bout and Trevor Wells takes on Heinrich Wassmer in what is expected to be fight of the night. In the main event Albert Morales steps into the cage with Terrion Ware in a fight between two strikers.</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/22778/vid/UFA_312-243712/thumbh.jpg</icon>
-  </programme>
-  <programme start="20250523184635 +0000" stop="20250523184914 +0000" channel="trontv" clumpidx="0/1">
-    <title>Overwater Bungalows at Sandals Grande St. Lucian, St. Lucia</title>
-    <desc>We take you on a sneak peek tour of the new all-inclusive overwater bungalows at Sandals Grande St. Lucian, St. Lucia. The bungalows open to guests May 15, 2017.</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/55182.jpg</icon>
-  </programme>
-  <programme start="20250523184914 +0000" stop="20250523185604 +0000" channel="trontv" clumpidx="0/1">
-    <title>St. Croix Part I - Beach &amp; Shopping</title>
-    <desc>Teri and Andrea journey to St. Croix to explore Turtle Beach on Buck Island, then taste local cuisine at LaReines Chicken Shack, then go shopping in Christansted at Shays Boutique and My Girlfriends Closet.</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/54629.jpg</icon>
-  </programme>
-  <programme start="20250523185604 +0000" stop="20250523185913 +0000" channel="trontv" clumpidx="0/1">
-    <title>Slainte in New York &amp; Chicago for St. Patrick's Day</title>
-    <desc>Well show you where to stay &amp; what to do in New York &amp; Chicago for St. Patricks Day. You dont need the luck of the Irish, you need TravelSavvy.tv!</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/57020.jpg</icon>
   </programme>
   <programme start="20250523185913 +0000" stop="20250523190451 +0000" channel="trontv" clumpidx="0/1">
     <title>Scott Conant on New York, Cooking Tips, Restaurants for Kids, and More</title>
@@ -3804,6 +3793,26 @@
     <desc>With botanical gardens, parks, beaches, harbors and a vibrant downtown, Ventura County gives you endless ways to relax. See our spots here!</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/58302.jpg</icon>
   </programme>
+  <programme start="20250523224735 +0000" stop="20250523225255 +0000" channel="trontv" clumpidx="0/1">
+    <title>Tokyo</title>
+    <desc>When you look out your taxi window here, you see life in High-Definition (HD). Tokyo glistens and glows with precision and truly stands in a class of her own. Every street, alley, and crevice lends itself as a gateway to adventures with endless possibilities. A city rooted in heavy history and tradition, but propelled by innovation and imagination, Tokyo has a spellbinding flare for artisan culture, creativity, and design. There is no place like it on Earth, and being home to more Michelin stars than any other place in the world is merely a symbol of Tokyoites devotion to craftsmanship and inventiveness. This city is an endless feast of inspiration - exploring the unknown and finding new paths is highly recommended.  Remember to stay humble and behave respectfully, because good manners and thoughtfulness are the real ways to truly experiencing Tokyo and making a few fabulous friends along the way.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/55177.jpg</icon>
+  </programme>
+  <programme start="20250523225255 +0000" stop="20250523225511 +0000" channel="trontv" clumpidx="0/1">
+    <title>Fun Things to do in Brooklyn</title>
+    <desc>Learn where adults go for ice cream, bowling, video games, &amp; other fun kid things adults can do in Brooklyn. Andrew Zimmer gives his local insight!</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/54620.jpg</icon>
+  </programme>
+  <programme start="20250523225511 +0000" stop="20250523225718 +0000" channel="trontv" clumpidx="0/1">
+    <title>Li Qun Duck</title>
+    <desc>Zhang Li Qun welcomes you to his home to experience this classic delicacy. And when we say classic, we mean the ultimate classic. Throughout the years, there have been many spins on Peking Duck, even in Beijing. However, Li Qun Duck roasts their duck in accordance with the Qing Imperial Kitchen and their production methods, including the traditional hanging furnace technique. In a very proud city rich with historical heritage, this is about as local as it gets. Tucked away in the winding hutongs of the Qianmen area, do not miss this hidden gem….you will savor this taste of old Beijing for eternity.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/54635.jpg</icon>
+  </programme>
+  <programme start="20250523225718 +0000" stop="20250523230212 +0000" channel="trontv" clumpidx="0/1">
+    <title>Gateway of Arizona: Chandler's Unique Lifestyle</title>
+    <desc>What does population and economic growth in Chandler, Arizona mean for this summers travel plans? Find out here, and discover the unique lifestyle this Sonoran city offers.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/55189.jpg</icon>
+  </programme>
   <programme start="20250523165331 +0000" stop="20250523192258 +0000" channel="choppertown" clumpidx="0/1">
     <title>Chop Cut Rebuild : Camaro Craze</title>
     <desc>Get your fix with host Dan Woods as he reveals what it takes to be a custom classic builder, with demanding deadlines quickly becoming a reality and roadblocks rising left and right.</desc>
@@ -3843,10 +3852,6 @@
     <title>Thrillseekers : Knife Throwing, Surfing &amp; Go Carting!</title>
     <desc>Its been said its better to meet danger than to wait for it. Chuck Connors hosts Thrillseekers, a series presenting some of the most insane death defying stunts and more ever caught on film! Check out Choppertown’s Certified Vintage Collection for more!</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/22848/vid/chopperTown_ODYz/thumbh.jpg</icon>
-  </programme>
-  <programme start="20250523182622 +0000" stop="20250523185451 +0000" channel="business-rockstars" clumpidx="0/1">
-    <title>Liftoff with Jeanniey Walden</title>
-    <desc>Jeanniey Walden is joined by plastic surgeon Dr. Adam Rubenstein, actor Holly Robinson Peete, celeb designer Julia Haart and financial expert Nicole Gillyard.</desc>
   </programme>
   <programme start="20250523185452 +0000" stop="20250523194759 +0000" channel="business-rockstars" clumpidx="0/1">
     <title>Kings of Kush</title>
@@ -3931,10 +3936,6 @@ PP WWLXEX8CGTH Wounded Warriors</desc>
     <title>El Tribuno Del Pueblo</title>
     <desc>Latin Americans in Los Angeles deserve justice, and Judge Mario Luis Acosta applies it prudently and wisely in controversial, sometimes humorous, real-life cases. Spanish Language "People's Court".</desc>
   </programme>
-  <programme start="20250523171900 +0000" stop="20250523185513 +0000" channel="frightflix" clumpidx="0/1">
-    <title>Fat Tuesday</title>
-    <desc>Behind the mask of Mardi Gras, something sinister stalks the streets of New Orleans. Filmed on-location during the final days of Carnival, a group of friends is preyed upon by a mysterious killer.</desc>
-  </programme>
   <programme start="20250523185514 +0000" stop="20250523204217 +0000" channel="frightflix" clumpidx="0/1">
     <title>The Dark Side of The Moon</title>
     <desc>It is the year 2022. A mysterious systems failure causes the crew of a spaceship to be stranded on the dark side of the moon, while rapidly running out of fuel and oxygen. They are surprised to discover a NASA space shuttle floating in space, and board it in the hope of salvaging some supplies. One by one, the crew is possessed and killed, and it is up to Paxton Warner to find the links between the dark side of the moon, the Bermuda Triangle, and the Devil himself.</desc>
@@ -4000,6 +4001,10 @@ Shriners 2
   <programme start="20250523221612 +0000" stop="20250523225607 +0000" channel="ski-tv" clumpidx="0/1">
     <title>World Pro Ski Tour - Alex Leever Interview</title>
     <desc>World Pro Ski Tour interviews Professional Ski Racer and Olympian Alex Leever</desc>
+  </programme>
+  <programme start="20250523225608 +0000" stop="20250523232428 +0000" channel="ski-tv" clumpidx="0/1">
+    <title>World Pro Ski Tour - Aspen 2018</title>
+    <desc>The World Pro Ski Tour Rocky Mountain Pro Ski Classic 2018 Snowmass, Colorado Quarter Finals</desc>
   </programme>
   <programme start="20250523180123 +0000" stop="20250523192520 +0000" channel="watchit-scream" clumpidx="0/1">
     <title>The Sect</title>
@@ -4118,6 +4123,10 @@ Shriners 2
     <title>The Ring Thing</title>
     <desc>A failed proposal turns a loving relationship into a minefield of marital exploration.</desc>
   </programme>
+  <programme start="20250523225000 +0000" stop="20250524010000 +0000" channel="revry-her" clumpidx="0/1">
+    <title>Cassanova Was A Woman</title>
+    <desc>A woman discovers she is bisexual in this comedy about fantasy, fidelity, and fried plantains.</desc>
+  </programme>
   <programme start="20250523184605 +0000" stop="20250523190000 +0000" channel="euronews" clumpidx="0/1">
     <title>Brussels, My Love ?</title>
     <desc>From economy to climate &amp; EU's role in world affairs, talk show about EU affairs &amp; impact on Europeans …</desc>
@@ -4228,6 +4237,11 @@ Shriners 2
     <desc>On Our World with Black Enterprise, we continue our coverage at the 9th annual Black Enterprise Women of Power Summit in Boca Raton, Florida. Correspondent Sonia Alleyne talks to tennis star Venus Williams about the challenges shes faced in her transformation from tennis champion to budding entrepreneur. Then, we highlight two past WPS Legacy Winners who changed the face of fashion and beauty: Barbara Smith and Bethann Hardison. And finally, we profile Misty Copeland, the ballerina who is dancing her way into the hearts of millions.</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/22927/vid/OurWorldTVS8_d80a2751-d06d-419f-b65d-e936cd1206e9/thumbh.jpg</icon>
   </programme>
+  <programme start="20250523225532 +0000" stop="20250523233056 +0000" channel="black-enterprise" clumpidx="0/1">
+    <title>On the Clock with Nedra Glover Tawwab</title>
+    <desc>Licensed therapist and best-selling relationship expert Nedra Glover Tawwab shares advice for managing difficult relationships with family members</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/22927/vid/OntheClock_0ed546c5-ca15-4bc9-965f-d60fe8d0e270/thumbh.jpg</icon>
+  </programme>
   <programme start="20250523180000 +0000" stop="20250523194500 +0000" channel="militarytimes" clumpidx="0/1">
     <title>Team House| The TRUTH About China's 6th Gen Fighters &amp; UFOs/UAPs</title>
     <desc>Today we're joined by friend of the show Alex Hollings, former Marine and current editor of Sandboxx News and host of Airpower on YouTube. We talk Chinas 6th gen aircraft capabilities, stealth, &amp; ufos.</desc>
@@ -4324,6 +4338,11 @@ Shriners 2
     <desc>Intimate glimpses of one very special day in the lives of high-school seniors from an industrial corner of the Florida Everglades.</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/22943/vid/121017/thumbh.jpg</icon>
   </programme>
+  <programme start="20250523225047 +0000" stop="20250523235007 +0000" channel="documentary" clumpidx="0/1">
+    <title>Unknown Male Number 1: Episode 2</title>
+    <desc>Episode 2: Family Secrets. A murder, a body and a single piece of unknown DNA, so begins the gripping story of one of the most ambitious forensic investigations ever undertaken in pursuit of the identity of the killer of a 13-year old near her home in northern Italy in 2010. This riveting four-part documentary series follows the 7 year saga of a tenacious and emotionally-invested lead prosecutor in her case as she seeks justice.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/22943/vid/131692/thumbh.jpg</icon>
+  </programme>
   <programme start="20250523183000 +0000" stop="20250523190000 +0000" channel="wired2fish-tv" clumpidx="0/1">
     <title>Stoked on Fishing — Back to Gustavus Alaska, Pt. 3</title>
     <desc>We said it last year, and we're going to repeat it this year; Alaska is something special. There's so much nature and beauty here. It's unbelievable. Last week Shea McIntee and the crew had excellent Halibut and Black Bass fishing. This week, mother nature gave us the perfect weather for salmon fishing, and we had a blast. Stoked on Alaska. Here we go!</desc>
@@ -4356,11 +4375,6 @@ Shriners 2
     <title>Slickfish Radio</title>
     <desc>Jim Crowley interviews top anglers and industry insiders from around the world of angling.</desc>
   </programme>
-  <programme start="20250523182800 +0000" stop="20250523185701 +0000" channel="zoomer" clumpidx="0/1">
-    <title>Anjelica's Kettlebell Workout s1e2</title>
-    <desc>Break out that kettlebell and tap into your inner warrior with fitness expert Anjelica Scannura's brand new show Anjelica's Kettlebell Workout, which features multi-level kettlebell routines that will boost metabolism, burn fat and build muscle.</desc>
-    <icon>https://dq126dsoud56d.cloudfront.net/file/thumbnail/cf3106a7-e200-426a-b773-c57732912fb2.png</icon>
-  </programme>
   <programme start="20250523185701 +0000" stop="20250523195406 +0000" channel="zoomer" clumpidx="0/1">
     <title>theZoomer S10E05 Innovations In Affordable Housing</title>
     <desc>Marissa Lennox and her panel discuss housing gaps and solutions, including the very latest in alternative housing trends for Zoomers.</desc>
@@ -4391,30 +4405,10 @@ Shriners 2
     <desc>Exercising belly dancing workouts with Anjelica.</desc>
     <icon>https://dq126dsoud56d.cloudfront.net/file/thumbnail/c74239fd-161f-4c94-a7eb-0ea18b8024c7.png</icon>
   </programme>
-  <programme start="20250523184612 +0000" stop="20250523184944 +0000" channel="us-weekly-tv" clumpidx="0/1">
-    <title>Chrissy Teigen and John Legend Secretly Welcome 4th Child Via Surrogate</title>
-    <desc>Chrissy Teigen and John Legend Secretly Welcome 4th Child Via Surrogate</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/22950/vid/cm_9Kt3hDvJ/thumbh.jpg</icon>
-  </programme>
-  <programme start="20250523184944 +0000" stop="20250523185128 +0000" channel="us-weekly-tv" clumpidx="0/1">
-    <title>Olympian Ryan Lochte and Wife Kayla Rae Reid Welcome Baby No. 3</title>
-    <desc>Olympian Ryan Lochte and Wife Kayla Rae Reid Welcome Baby No. 3</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/22950/vid/cm_tH8TtSnJ/thumbh.jpg</icon>
-  </programme>
-  <programme start="20250523185128 +0000" stop="20250523185218 +0000" channel="us-weekly-tv" clumpidx="0/1">
-    <title>Anthony Anderson Has Advice For His Kids Going into Show Business: ‘Act Your Age’</title>
-    <desc>Anthony Anderson Has Advice For His Kids Going into Show Business: ‘Act Your Age’</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/22950/vid/cm_8MEG1e7m/thumbh.jpg</icon>
-  </programme>
-  <programme start="20250523185218 +0000" stop="20250523185420 +0000" channel="us-weekly-tv" clumpidx="0/1">
-    <title>Jenna Dewan Says Daughter Evie Asked to ‘Watch Something Good’ After Seeing ‘Step Up’ for 1st Time</title>
-    <desc>Jenna Dewan Says Daughter Evie Asked to ‘Watch Something Good’ After Seeing ‘Step Up’ for 1st Time</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/22950/vid/cm_2p9XT1hS/thumbh.jpg</icon>
-  </programme>
-  <programme start="20250523185420 +0000" stop="20250523185630 +0000" channel="us-weekly-tv" clumpidx="0/1">
-    <title>Jana Kramer Is Pregnant With Baby No. 3, Her 1st With Fiance Allan Russell</title>
-    <desc>Jana Kramer Is Pregnant With Baby No. 3, Her 1st With Fiance Allan Russell</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/22950/vid/cm_7sIBx3QI/thumbh.jpg</icon>
+  <programme start="20250523225215 +0000" stop="20250523232216 +0000" channel="zoomer" clumpidx="0/1">
+    <title>Anjelica's Dance Workout s1e1 'Toning Legs and Glutes'</title>
+    <desc/>
+    <icon>https://dq126dsoud56d.cloudfront.net/file/thumbnail/59e090e6-b7c7-4c27-a532-52daf68b43f7.png</icon>
   </programme>
   <programme start="20250523185630 +0000" stop="20250523190400 +0000" channel="us-weekly-tv" clumpidx="0/1">
     <title>Heather Rae El Moussa Breaks Down Her Relationships With Stepkids Taylor and Brayden</title>
@@ -4616,6 +4610,26 @@ Shriners 2
     <desc>Heidi Montag and Spencer Pratt Say They Will Convert to Mormonism for ‘Secret Lives of Mormon Wives’</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/22950/vid/interview_S2ITKtrw/thumbh.jpg</icon>
   </programme>
+  <programme start="20250523225124 +0000" stop="20250523225313 +0000" channel="us-weekly-tv" clumpidx="0/1">
+    <title>Best Financial Advice from Shark Tank</title>
+    <desc>Best Financial Advice from Shark Tank</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/22950/vid/interview_Irvz487T/thumbh.jpg</icon>
+  </programme>
+  <programme start="20250523225313 +0000" stop="20250523225506 +0000" channel="us-weekly-tv" clumpidx="0/1">
+    <title>RHOM's Guerdy Reflects on Ringing the Bell: 'I'm a Breast Cancer Survivor'</title>
+    <desc>RHOMs Guerdy Reflects on Ringing the Bell: Im a Breast Cancer Survivor</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/22950/vid/interview_saoKzLuk/thumbh.jpg</icon>
+  </programme>
+  <programme start="20250523225506 +0000" stop="20250523225651 +0000" channel="us-weekly-tv" clumpidx="0/1">
+    <title>Julie Chen Moonves Shares Her Predictions for Big Brother 25's 2nd Double Eviction</title>
+    <desc>Julie Chen Moonves Shares Her Predictions for Big Brother 25s 2nd Double Eviction</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/22950/vid/interview_vqi74UlF/thumbh.jpg</icon>
+  </programme>
+  <programme start="20250523225651 +0000" stop="20250523230448 +0000" channel="us-weekly-tv" clumpidx="0/1">
+    <title>Erika Jayne Says Every Question About Tom Girardi Feels Like 'Cutting Open a Healing Wound'</title>
+    <desc>Erika Jayne Says Every Question About Tom Girardi Feels Like Cutting Open a Healing Wound</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/22950/vid/interview_TAa1GLlB/thumbh.jpg</icon>
+  </programme>
   <programme start="20250523181236 +0000" stop="20250523213451 +0000" channel="xfc-tv" clumpidx="0/1">
     <title>XFC Young Guns 2</title>
     <desc>XFC 44 Young Guns 2: Soukhamtath and Quinonez battle it out in Des Moines for the XFC championship. Don't miss the action-packed fight night!</desc>
@@ -4776,16 +4790,6 @@ Direct to Video!</desc>
     <desc>Full coverage from GT4 2023 European Series!</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/22705/vid/mr-circuitinternational_QnmiJOJn-203591/thumbh.jpg</icon>
   </programme>
-  <programme start="20250523183733 +0000" stop="20250523185033 +0000" channel="wapptv" clumpidx="0/1">
-    <title>Entrevista con Tati Ivanova Médico Antiage &amp; Beauty Coach Yoga Facial</title>
-    <desc/>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/22963/vid/149521/thumbh.jpg</icon>
-  </programme>
-  <programme start="20250523185033 +0000" stop="20250523185708 +0000" channel="wapptv" clumpidx="0/1">
-    <title>Lya Rojas sobre la Ley de Crianza Protegida</title>
-    <desc/>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/22963/vid/109631/thumbh.jpg</icon>
-  </programme>
   <programme start="20250523185708 +0000" stop="20250523191735 +0000" channel="wapptv" clumpidx="0/1">
     <title>Ruta al Norte: Comienza la aventura</title>
     <desc/>
@@ -4891,11 +4895,6 @@ Direct to Video!</desc>
     <desc>Men's Open Final: Joshua Filler vs Denis Grabe from February 26, 2025</desc>
     <icon>https://img.static-ottera.com/prod/bbb/video/thumbnails/widescreen/1920x1080/bill2802_landscape.jpg</icon>
   </programme>
-  <programme start="20250523183000 +0000" stop="20250523185445 +0000" channel="barktv" clumpidx="0/1">
-    <title>Tucker Reactions</title>
-    <desc>Join Tucker, a charismatic Golden Retriever, as he navigates everyday adventures, humorous challenges, and ado</desc>
-    <icon>https://img.static-ottera.com/prod/bbb/video/thumbnails/widescreen/1920x1080/tucker_generic_landscape.jpg</icon>
-  </programme>
   <programme start="20250523190000 +0000" stop="20250523192815 +0000" channel="barktv" clumpidx="0/1">
     <title>Doctor Lindsay Butzer Collections</title>
     <desc>Join Doctor Lindsay Butzer, a knowledgeable veterinarian, as she shares expert advice on pet health, wellness,</desc>
@@ -4995,6 +4994,11 @@ Direct to Video!</desc>
     <title>A.I.SHA | Episode 5</title>
     <desc>Why is A.I.SHA messing with Sam? Watch Episode 5 of A.I.SHA My Virtual Girlfriend to find out.</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/22982/aisha-my-virtual-girlfriend/aisha-episode-5_thumbh_20210824_215146.jpg</icon>
+  </programme>
+  <programme start="20250523225651 +0000" stop="20250523233556 +0000" channel="arre" clumpidx="0/1">
+    <title>Episode 17 | Pairon Ki Bediyan Khwabon Ko Baandhein Nahin Re</title>
+    <desc>‘A woman’s freedom without fear is not an attack on masculinity.’</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/22982/arr-ho-ja-re-gender/episode-17-pairon-ki-bediyan-khwabon-ko-baandhein-nahin-re_thumbh_20210824_215146.jpg</icon>
   </programme>
   <programme start="20250523180000 +0000" stop="20250523190000 +0000" channel="real-americas-voice" clumpidx="0/1">
     <title>Human Events Daily</title>
@@ -5210,11 +5214,6 @@ Direct to Video!</desc>
     <title>The Alliance</title>
     <desc>A merciless man on the hunt for power and recognition has roots in the dark underworld of South African crime.</desc>
   </programme>
-  <programme start="20250523164409 +0000" stop="20250523185923 +0000" channel="dark-matter-tv" clumpidx="0/1">
-    <title>Ip Man 3</title>
-    <desc>When a band of brutal gangsters led by a crooked property developer make a play to take over the city, Master Ip is forced to take a stand.</desc>
-    <icon/>
-  </programme>
   <programme start="20250523185923 +0000" stop="20250523210142 +0000" channel="dark-matter-tv" clumpidx="0/1">
     <title>Night Of The Living Dead</title>
     <desc>A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a bloodthirsty, flesh-eating breed of monsters who are ravaging the East Coast of the United States.</desc>
@@ -5282,6 +5281,10 @@ Direct to Video!</desc>
   <programme start="20250523215406 +0000" stop="20250523225206 +0000" channel="swerve-combat" clumpidx="0/1">
     <title>BKFC 26</title>
     <desc>Hollywood, Florida hosts a banger of a fight card headlined by Elvin Brito vs Luis Palomino.</desc>
+  </programme>
+  <programme start="20250523225206 +0000" stop="20250524004120 +0000" channel="swerve-combat" clumpidx="0/1">
+    <title>Peak Fighting Championship 43</title>
+    <desc>Local talent &amp; top pros bring nonstop LIVE MMA action to Shawnee, Oklahoma’s biggest combat sports event ever!</desc>
   </programme>
   <programme start="20250523180000 +0000" stop="20250523210000 +0000" channel="afriwood-blockbuster" clumpidx="0/1">
     <title>Unknown Covenant</title>
@@ -5354,6 +5357,21 @@ Direct to Video!</desc>
     <desc>This is a preview for the 2 hour nature film Sounds of the Sierra which will be available on October 1. Immerse yourself in the enchanting sights and sounds of summer in the Sierra Nevada mountains. This film features beautiful alpine scenery accompanied by an array of soothing nature sounds: thundering waterfalls, flowing creeks, singing birds, rainfall, and a host of other sounds that create "natures summer symphony". The full 2 hour film is available to subscribers of NatureStream.tv.</desc>
     <icon/>
   </programme>
+  <programme start="20250523225056 +0000" stop="20250523225757 +0000" channel="naturestreamtv" clumpidx="0/1">
+    <title>Preview of A Journey Through Europe</title>
+    <desc>This is a preview of “A Journey through Europe” available to stream at www.NatureStream.tv. This moving art display features the stunning photography and cinematography of Olof &amp; Elizabeth Carmel. This 60 minute video is a relaxing and inspiring visual voyage through some of the most scenic regions of Europe. Countries featured include France, Italy, Sweden, England, Spain, and Greece. This video includes a beautiful instrumental soundtrack. Run time is 60 minutes.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/160760.jpg</icon>
+  </programme>
+  <programme start="20250523225757 +0000" stop="20250523225848 +0000" channel="naturestreamtv" clumpidx="0/1">
+    <title>Preview of Matted Art Displays</title>
+    <desc>This is a preview of a series of 15 of Elizabeth Carmels Fine Art Photographs matted like framed art pieces.The full 2 1/2 hour film displays each photograph for 10 minutes. To remain on one photograph press pause, follow the directions in our video "Displaying Fine Art Photographs on Your Apple TV and Roku.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/160768.jpg</icon>
+  </programme>
+  <programme start="20250523225848 +0000" stop="20250523230104 +0000" channel="naturestreamtv" clumpidx="0/1">
+    <title>Preview for Slo Mo Snow</title>
+    <desc>Experience the wondrous snow storms that blanketed Californias Sierra Mountains in January of 2023 in NatureStream.tvs newest release: "Slo Mo Snow". Filming was done at very slow motion to create an immersive experience of winters beauty. Aerial footage reveals the vast mountain landscape cloaked in snowy splendor.  Run time 90 minutes. Available to subscribers of NatureStream.tv</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/23037/vid/naturestream_515197/thumbh.jpg</icon>
+  </programme>
   <programme start="20250523173000 +0000" stop="20250523192130 +0000" channel="boxing-tv" clumpidx="0/1">
     <title>Ballroom Boxing</title>
     <desc>Anthony Fields vs Eric Mitchell and more</desc>
@@ -5373,11 +5391,6 @@ Direct to Video!</desc>
     <title>Pro Boxing Archive Series</title>
     <desc>Joseph Parker  vs Keith Thompson &amp; Robert Berridge vs Vasily Lepikhin from August 8, 2014</desc>
     <icon>https://img.static-ottera.com/prod/bbb/video/thumbnails/widescreen/1920x1080/boxingarchiveseries_landscape.jpg</icon>
-  </programme>
-  <programme start="20250523173428 +0000" stop="20250523185454 +0000" channel="goalcast" clumpidx="0/1">
-    <title>Top SUCCESS Speeches</title>
-    <desc>Here we have the Top 5 Most Powerful and Moving Speeches that you need to listen today. You will be motivated, inspired, and set up for success! You WILL be moved to achieve your goals.</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/161262.jpg</icon>
   </programme>
   <programme start="20250523185454 +0000" stop="20250523191527 +0000" channel="goalcast" clumpidx="0/1">
     <title>Denzel Washington's Greatest Life Advice</title>
@@ -5464,6 +5477,11 @@ Direct to Video!</desc>
     <desc>Behind The Secret Geri Halliwell and Mel B Hid for Years: While the world was busy obsessing over the SPICE GIRLS, behind the scenes, two members were also bonding in a spicy way! What REALLY caused ﻿Geri Halliwell to leave the group? And why did she break Mel ﻿Bs heart? This video reveals a side of Ginger and Scary Spice you never knew about.</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/161306.jpg</icon>
   </programme>
+  <programme start="20250523225119 +0000" stop="20250523230014 +0000" channel="goalcast" clumpidx="0/1">
+    <title>Arnold Schwarzenegger: Rebuilding Family</title>
+    <desc>Arnold Schwarzenegger was forced to be tough at an early age. Abused by his father, Arnold tried to bury his painful past by putting all of his energy into bodybuilding. When he started a family with his wife, everything appeared perfect to the outside world... Until Arnold was publicly exposed for cheating on his wife and destroying his family. Why did Arnold cheat? And how far back do the lies go?</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/ep_thumb/161307.jpg</icon>
+  </programme>
   <programme start="20250523184328 +0000" stop="20250523192051 +0000" channel="roi-tv" clumpidx="0/1">
     <title>The Business of... Classic Cars with John Buonanno</title>
     <desc>Do you love the sound, the feel, the smell of a classic car? Then you will love Black Horse Garage. Come meet John Buonanno as he takes us through the journey of a family business and explains the pivots they have had to make to keep the business alive. Its a great story and you wont want to miss out on what comes next in the classic car business.</desc>
@@ -5524,16 +5542,17 @@ Direct to Video!</desc>
     <desc>A fighter called "Lover Boy" gets no love from a ferocious foot to the face, and more! It's time for Monster Knockout: Shane Mosley vs Adrian Stone on FITE+!</desc>
     <icon>https://d3d85c7qkywguj.cloudfront.net/file/thumbnail/1be1fe2d-06dc-4d9a-8746-5f25331f0de8.png</icon>
   </programme>
+  <programme start="20250523225714 +0000" stop="20250524002058 +0000" channel="fite-247" clumpidx="0/1">
+    <title>Caribe Royale Orlando: Kevin Brown vs Adriano Profirio Ramirez pt2</title>
+    <desc/>
+    <icon>https://d3d85c7qkywguj.cloudfront.net/file/thumbnail/b605d714-ddf9-4b3f-b691-85cea1974d3d.png</icon>
+  </programme>
   <programme start="20250523153000 +0000" stop="20250523193000 +0000" channel="tna-wrestling-channel" clumpidx="0/1">
     <title>Exclusive Events</title>
     <desc/>
   </programme>
   <programme start="20250523193000 +0000" stop="20250523233000 +0000" channel="tna-wrestling-channel" clumpidx="0/1">
     <title>Exclusive Events</title>
-    <desc/>
-  </programme>
-  <programme start="20250523180000 +0000" stop="20250523185533 +0000" channel="fight-network" clumpidx="0/1">
-    <title>Best of ADCC</title>
     <desc/>
   </programme>
   <programme start="20250523185533 +0000" stop="20250523194500 +0000" channel="fight-network" clumpidx="0/1">
@@ -5574,6 +5593,10 @@ Direct to Video!</desc>
   </programme>
   <programme start="20250523215642 +0000" stop="20250523225128 +0000" channel="axs-tv-now" clumpidx="0/1">
     <title>The Big Interview with Dan Rather</title>
+    <desc/>
+  </programme>
+  <programme start="20250523225128 +0000" stop="20250523232419 +0000" channel="axs-tv-now" clumpidx="0/1">
+    <title>MOCKpocalypse</title>
     <desc/>
   </programme>
   <programme start="20250523180650 +0000" stop="20250523210705 +0000" channel="africanews" clumpidx="0/1">
@@ -5631,6 +5654,10 @@ Direct to Video!</desc>
   <programme start="20250523220941 +0000" stop="20250523225949 +0000" channel="watchit-kid" clumpidx="0/1">
     <title>Roswell Conspiracies: Aliens, Myths and Legends</title>
     <desc>Mab, Queen of the Banshees, dispatches two bullheaded Minotauri bounty hunters and a cerberus parahound after the same prize – the head of Sh’lainn Blaze.</desc>
+  </programme>
+  <programme start="20250523225950 +0000" stop="20250523234959 +0000" channel="watchit-kid" clumpidx="0/1">
+    <title>Roswell Conspiracies: Aliens, Myths and Legends</title>
+    <desc>Sh’lainn’s death vision predicts everyone at the Alliance base will die in twelve hours. What she doesn’t realize is that she will be the cause. After coming into contact with a recovered alien probe, she reverts to her wildest Banshee state and begins mutating the technology around her. Magical “earth stones” from the Banshee clan may be her only hope.</desc>
   </programme>
   <programme start="20250523170000 +0000" stop="20250523190000 +0000" channel="fuel-tv" clumpidx="0/1">
     <title>Andy Irons: Kissed by God</title>
@@ -5696,6 +5723,11 @@ Direct to Video!</desc>
     <desc/>
     <icon/>
   </programme>
+  <programme start="20250523224758 +0000" stop="20250524000028 +0000" channel="autumn-escape" clumpidx="0/1">
+    <title>Autumn Escape River</title>
+    <desc/>
+    <icon/>
+  </programme>
   <programme start="20250523175952 +0000" stop="20250523190952 +0000" channel="relaxing-winterscapes" clumpidx="0/1">
     <title>Soothing Snowstorm IV</title>
     <desc/>
@@ -5738,6 +5770,11 @@ Direct to Video!</desc>
   </programme>
   <programme start="20250523213521 +0000" stop="20250523224751 +0000" channel="spring-escape" clumpidx="0/1">
     <title>Spring Tulips With Birds Singing II</title>
+    <desc/>
+    <icon/>
+  </programme>
+  <programme start="20250523224751 +0000" stop="20250524011021 +0000" channel="spring-escape" clumpidx="0/1">
+    <title>Soothing Spring Stream II</title>
     <desc/>
     <icon/>
   </programme>
@@ -5842,10 +5879,6 @@ Direct to Video!</desc>
     <title>American Beach House-H264-FTR-Eng-St</title>
     <desc>What happens when six lucky strangers, three handsome young guys and three beautiful sexy young women, from all over the world, win a random contest-- an all expenses paid trip to an amazing beach house in glamorous Malibu, California, thanks to a big Internet company--only to discover they have to share it with each other.</desc>
   </programme>
-  <programme start="20250523173856 +0000" stop="20250523185434 +0000" channel="kozoom-tv" clumpidx="0/1">
-    <title>3-Cushion Kozoom Challenge Cup 2022 Group E Sets 4-6</title>
-    <desc>Match between 3 players on a single table. 18 sets to 10 points will be played. Winner of each group will be qualified for the final stage.</desc>
-  </programme>
   <programme start="20250523185434 +0000" stop="20250523200202 +0000" channel="kozoom-tv" clumpidx="0/1">
     <title>3-Cushion Kozoom Challenge Cup 2022 Group E Sets 7-9</title>
     <desc>Match between 3 players on a single table. 18 sets to 10 points will be played. Winner of each group will be qualified for the final stage.</desc>
@@ -5910,10 +5943,6 @@ Direct to Video!</desc>
     <title>Noticias Texas</title>
     <desc>Mantente informado de los acontecimientos mas importantes de tu localidad y del mundo</desc>
   </programme>
-  <programme start="20250523180000 +0000" stop="20250523185900 +0000" channel="estrella-games" clumpidx="0/1">
-    <title>El Show De Don Cheto</title>
-    <desc>Programa de variedades lleno de diversion con invitados especiales, juegos, musica y mas.</desc>
-  </programme>
   <programme start="20250523190000 +0000" stop="20250523200000 +0000" channel="estrella-games" clumpidx="0/1">
     <title>Tumbaburros</title>
     <desc>Los concursantes son visitados en su hogar retados por el premio mayor mediante preguntas y respuestas.</desc>
@@ -5929,56 +5958,6 @@ Direct to Video!</desc>
   <programme start="20250523220000 +0000" stop="20250523230000 +0000" channel="estrella-games" clumpidx="0/1">
     <title>Mi Sueño es Bailar</title>
     <desc>Concurso de baile entre famosos y bailarines profesionales por ser el campeon</desc>
-  </programme>
-  <programme start="20250523184642 +0000" stop="20250523184745 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
-    <title>UK_VO_280821_KanyeWestLookingToLegallyChangeHisName</title>
-    <desc/>
-    <icon/>
-  </programme>
-  <programme start="20250523184745 +0000" stop="20250523184849 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
-    <title>UK_VO_0208_LizzoTeasesBigAnnouncement</title>
-    <desc/>
-    <icon/>
-  </programme>
-  <programme start="20250523184849 +0000" stop="20250523184929 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
-    <title>UK_VO_301120_ChrisBrownSoulTrain</title>
-    <desc/>
-    <icon/>
-  </programme>
-  <programme start="20250523184929 +0000" stop="20250523185003 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
-    <title>UK_VO_291220_ChrissyTeigenNosePiercingGoesWrong</title>
-    <desc/>
-    <icon/>
-  </programme>
-  <programme start="20250523185003 +0000" stop="20250523185110 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
-    <title>UK_300621_VO_CatherineBattleship</title>
-    <desc/>
-    <icon/>
-  </programme>
-  <programme start="20250523185110 +0000" stop="20250523185218 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
-    <title>UK_CC_070122_NicolasCageSetToBeADadForTheThirdTime</title>
-    <desc/>
-    <icon/>
-  </programme>
-  <programme start="20250523185218 +0000" stop="20250523185346 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
-    <title>UK_CC_060122_ParisHiltonsThisIsParisDocumentaryPutHerMotherKathyIntoDepression</title>
-    <desc/>
-    <icon/>
-  </programme>
-  <programme start="20250523185346 +0000" stop="20250523185711 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
-    <title>UK_VO_301120_CamilaCabelloLearnedLotAboutLoveFromShawnMendes</title>
-    <desc/>
-    <icon/>
-  </programme>
-  <programme start="20250523185711 +0000" stop="20250523185753 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
-    <title>UK-41-Kim_Kris</title>
-    <desc/>
-    <icon/>
-  </programme>
-  <programme start="20250523185753 +0000" stop="20250523185947 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
-    <title>UK_281221_CC_ZoeKravitzBatmanChallenge</title>
-    <desc/>
-    <icon/>
   </programme>
   <programme start="20250523185947 +0000" stop="20250523190032 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
     <title>Jennifer Lawarance 222</title>
@@ -6250,6 +6229,61 @@ Direct to Video!</desc>
     <desc/>
     <icon/>
   </programme>
+  <programme start="20250523225300 +0000" stop="20250523225335 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
+    <title>Khloe Kardashian</title>
+    <desc/>
+    <icon/>
+  </programme>
+  <programme start="20250523225335 +0000" stop="20250523225431 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
+    <title>Ariana Grande</title>
+    <desc/>
+    <icon/>
+  </programme>
+  <programme start="20250523225431 +0000" stop="20250523225511 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
+    <title>UK_VO_KardashianJennersXmasEvePartCancelled</title>
+    <desc/>
+    <icon/>
+  </programme>
+  <programme start="20250523225511 +0000" stop="20250523225550 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
+    <title>Nicole Kidman</title>
+    <desc/>
+    <icon/>
+  </programme>
+  <programme start="20250523225550 +0000" stop="20250523225627 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
+    <title>UKKKK</title>
+    <desc/>
+    <icon/>
+  </programme>
+  <programme start="20250523225627 +0000" stop="20250523225716 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
+    <title>Duchess Catherine</title>
+    <desc/>
+    <icon/>
+  </programme>
+  <programme start="20250523225716 +0000" stop="20250523225749 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
+    <title>UK-Rihanna-VO</title>
+    <desc/>
+    <icon/>
+  </programme>
+  <programme start="20250523225749 +0000" stop="20250523225828 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
+    <title>Tiffany Haddish</title>
+    <desc/>
+    <icon/>
+  </programme>
+  <programme start="20250523225828 +0000" stop="20250523225913 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
+    <title>UK-MariahCareyFilm-VO</title>
+    <desc/>
+    <icon/>
+  </programme>
+  <programme start="20250523225913 +0000" stop="20250523225954 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
+    <title>Elton John</title>
+    <desc/>
+    <icon/>
+  </programme>
+  <programme start="20250523225954 +0000" stop="20250523230034 +0000" channel="masala-entertainment-plus" clumpidx="0/1">
+    <title>Selena Gomes 1</title>
+    <desc/>
+    <icon/>
+  </programme>
   <programme start="20250523170742 +0000" stop="20250523200844 +0000" channel="bollywood-classic" clumpidx="0/1">
     <title>Mazdoor</title>
     <desc>A laborer-turned-businessman faces challenges after the marriage of his children.</desc>
@@ -6257,6 +6291,10 @@ Direct to Video!</desc>
   <programme start="20250523201311 +0000" stop="20250523225454 +0000" channel="bollywood-classic" clumpidx="0/1">
     <title>Dil Tera Aashiq</title>
     <desc>Thakur Ranvir Singh Chaudhary cuts off his ties with his sister after she marries a man below their status, but after her death the responsibility of looking after her children falls on him.</desc>
+  </programme>
+  <programme start="20250523225921 +0000" stop="20250524012253 +0000" channel="bollywood-classic" clumpidx="0/1">
+    <title>Babu</title>
+    <desc>Babu, a young man, falls in love with Kammo. When a thug rapes her, he murders him out of revenge, which leads to his arrest. After his release, he starts looking after Kammo and her child, Pinky. However, Pinky grows up to be a snob.</desc>
   </programme>
   <programme start="20250523181424 +0000" stop="20250523205455 +0000" channel="bollywood-hd" clumpidx="0/1">
     <title>Kasak</title>
@@ -6298,10 +6336,10 @@ Direct to Video!</desc>
     <desc/>
     <icon/>
   </programme>
-  <programme start="20250523184223 +0000" stop="20250523185211 +0000" channel="motorvision-tv" clumpidx="0/1">
-    <title>Porsche Type 64</title>
-    <desc>The very first Porsche, the Type 64 racing car.</desc>
-    <icon>https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/1920x1080/poster_1081.jpg</icon>
+  <programme start="20250523225001 +0000" stop="20250524000011 +0000" channel="sonicentric" clumpidx="0/1">
+    <title>Campfire at Sunset</title>
+    <desc/>
+    <icon/>
   </programme>
   <programme start="20250523185211 +0000" stop="20250523190144 +0000" channel="motorvision-tv" clumpidx="0/1">
     <title>Auto Union Type C Silver Arrow</title>
@@ -6353,10 +6391,15 @@ Direct to Video!</desc>
     <desc>Highlights from the Historic Rally Festival near Birmingham.</desc>
     <icon>https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/1920x1080/ukr24_09_16x9.jpg</icon>
   </programme>
-  <programme start="20250523183054 +0000" stop="20250523185942 +0000" channel="motorvision-tv-espanol" clumpidx="0/1">
-    <title>Supercars - Policías en la carretera</title>
-    <desc>Patrullando con los superdecoches de la policía de Dubai</desc>
-    <icon>https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/1920x1080/007.119.jpg</icon>
+  <programme start="20250523225212 +0000" stop="20250523225956 +0000" channel="motorvision-tv" clumpidx="0/1">
+    <title>Mercedes-AMG GT S Performmaster</title>
+    <desc>The Mercedes-AMG GT S Performmaster, a real bad boy.</desc>
+    <icon>https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/1920x1080/poster_1678.jpg</icon>
+  </programme>
+  <programme start="20250523230000 +0000" stop="20250523232911 +0000" channel="motorvision-tv" clumpidx="0/1">
+    <title>Supercars - Extravagance Times Four</title>
+    <desc>Porsche, Jaguar, Tesla</desc>
+    <icon>https://img.static-ottera.com/prod/mvg/video/thumbnails/widescreen/1920x1080/D_007.134.jpg</icon>
   </programme>
   <programme start="20250523190242 +0000" stop="20250523193045 +0000" channel="motorvision-tv-espanol" clumpidx="0/1">
     <title>Supercars - Aerodinámica</title>
@@ -6486,11 +6529,6 @@ The duo also explores how NIL is reshaping the future of college football govern
   <programme start="20250523223000 +0000" stop="20250523230000 +0000" channel="bleav-football" clumpidx="0/1">
     <title>Ruffino &amp; Joe</title>
     <desc>Blake Ruffino and Joe DeLeone join forces to talk about the latest in the SEC and College Football</desc>
-  </programme>
-  <programme start="20250523182936 +0000" stop="20250523185751 +0000" channel="western-bound" clumpidx="0/1">
-    <title>The Rifleman  - The Queue</title>
-    <desc>A Chinese man and his son come to town to open a laundry service. A prejudiced man bullies them.</desc>
-    <icon>https://img.static-ottera.com/prod/ime/video/thumbnails/widescreen/1920x1080/lrif_ottera_horizontal.jpg</icon>
   </programme>
   <programme start="20250523190000 +0000" stop="20250523195120 +0000" channel="western-bound" clumpidx="0/1">
     <title>Freedom on the Range - Freedom on the Range</title>
@@ -6694,25 +6732,9 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>Ava Labs, Kaiko, and Hedera: Blockchain, Data and AI Innovation at DAS 2025</title>
     <desc/>
   </programme>
-  <programme start="20250523184524 +0000" stop="20250523184849 +0000" channel="kids-tv-et" clumpidx="0/1">
-    <title>Boo Boo Song Zoobees</title>
-    <desc/>
-    <icon/>
-  </programme>
-  <programme start="20250523184849 +0000" stop="20250523185021 +0000" channel="kids-tv-et" clumpidx="0/1">
-    <title>Baby Shark Bob the Train</title>
-    <desc/>
-    <icon/>
-  </programme>
-  <programme start="20250523185021 +0000" stop="20250523185601 +0000" channel="kids-tv-et" clumpidx="0/1">
-    <title>Shapes Song Zoobees</title>
-    <desc/>
-    <icon/>
-  </programme>
-  <programme start="20250523185601 +0000" stop="20250523190005 +0000" channel="kids-tv-et" clumpidx="0/1">
-    <title>Transport Adventure Song Bob the Train</title>
-    <desc/>
-    <icon/>
+  <programme start="20250523224739 +0000" stop="20250523230247 +0000" channel="defiance-media" clumpidx="0/1">
+    <title>Spotlight</title>
+    <desc>Featuring Bill Barhydt. Interview at Satoshi Roundtable 2023 in Abu Dhabi, Dubai.</desc>
   </programme>
   <programme start="20250523190005 +0000" stop="20250523190215 +0000" channel="kids-tv-et" clumpidx="0/1">
     <title>Five Little Babies Bob the Train</title>
@@ -7044,18 +7066,23 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc/>
     <icon/>
   </programme>
-  <programme start="20250523184524 +0000" stop="20250523184849 +0000" channel="kids-tv-espanol" clumpidx="0/1">
-    <title>Boo Boo Song Zoobees</title>
+  <programme start="20250523224939 +0000" stop="20250523225042 +0000" channel="kids-tv-et" clumpidx="0/1">
+    <title>Ding Dong Bell Song Little Tree House</title>
     <desc/>
     <icon/>
   </programme>
-  <programme start="20250523184849 +0000" stop="20250523185021 +0000" channel="kids-tv-espanol" clumpidx="0/1">
-    <title>Baby Shark Bob the Train</title>
+  <programme start="20250523225042 +0000" stop="20250523225401 +0000" channel="kids-tv-et" clumpidx="0/1">
+    <title>Three Little Kittens Little Eddie</title>
     <desc/>
     <icon/>
   </programme>
-  <programme start="20250523185021 +0000" stop="20250523185601 +0000" channel="kids-tv-espanol" clumpidx="0/1">
-    <title>Shapes Song Zoobees</title>
+  <programme start="20250523225401 +0000" stop="20250523225746 +0000" channel="kids-tv-et" clumpidx="0/1">
+    <title>Five Little Monkeys Song Little Tree House</title>
+    <desc/>
+    <icon/>
+  </programme>
+  <programme start="20250523225746 +0000" stop="20250523230029 +0000" channel="kids-tv-et" clumpidx="0/1">
+    <title>Wheels on the Bus Little Eddie</title>
     <desc/>
     <icon/>
   </programme>
@@ -7394,6 +7421,26 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc/>
     <icon/>
   </programme>
+  <programme start="20250523224939 +0000" stop="20250523225042 +0000" channel="kids-tv-espanol" clumpidx="0/1">
+    <title>Ding Dong Bell Song Little Tree House</title>
+    <desc/>
+    <icon/>
+  </programme>
+  <programme start="20250523225042 +0000" stop="20250523225401 +0000" channel="kids-tv-espanol" clumpidx="0/1">
+    <title>Three Little Kittens Little Eddie</title>
+    <desc/>
+    <icon/>
+  </programme>
+  <programme start="20250523225401 +0000" stop="20250523225746 +0000" channel="kids-tv-espanol" clumpidx="0/1">
+    <title>Five Little Monkeys Song Little Tree House</title>
+    <desc/>
+    <icon/>
+  </programme>
+  <programme start="20250523225746 +0000" stop="20250523230029 +0000" channel="kids-tv-espanol" clumpidx="0/1">
+    <title>Wheels on the Bus Little Eddie</title>
+    <desc/>
+    <icon/>
+  </programme>
   <programme start="20250523181500 +0000" stop="20250523190000 +0000" channel="sports-connect" clumpidx="0/1">
     <title>Lotus Cup Europe (Ep5)</title>
     <desc/>
@@ -7474,6 +7521,10 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>The Lifted Life</title>
     <desc>The crew turn a ragged shell of a 1969 Bronco into a cutting-edge King of the Hill climber when the fan-favorite classic Ford undergoes a radical transformation.Toms Bronco Parts fulfills the wish-list of every Bronco fan in this dream build that turns a vintage four-wheeler from a roughrider into a modern day trail-busting marvel</desc>
   </programme>
+  <programme start="20250523225259 +0000" stop="20250523231835 +0000" channel="mtrspt1" clumpidx="0/1">
+    <title>Sams Garage</title>
+    <desc>They install a Lokar Performance hood scoop on the Jeep project, plus a rod ends on a 2012 Infiniti.</desc>
+  </programme>
   <programme start="20250523180000 +0000" stop="20250523210000 +0000" channel="craftsytv" clumpidx="0/1">
     <title>Let's Get Started: Baking</title>
     <desc>Learn baking with CraftsyTV.</desc>
@@ -7493,6 +7544,10 @@ The duo also explores how NIL is reshaping the future of college football govern
   <programme start="20250523224000 +0000" stop="20250523225000 +0000" channel="craftsytv" clumpidx="0/1">
     <title>Marble Cakes</title>
     <desc>Marble cakes rock. In this episode our Cake Slayer demystifies the marbled fondant technique and constructs a fully marbleized cake (from the inside out!). If only granite had chocolate swirls like these.</desc>
+  </programme>
+  <programme start="20250523225000 +0000" stop="20250523230000 +0000" channel="craftsytv" clumpidx="0/1">
+    <title>Man About Cake</title>
+    <desc>Sink your teeth into current cake decorating trends! In the Man About Cake series, Joshua John Russell delivers incredible tips for creating modern edible masterpieces. Each week, he decorates an original cake, shares his favorite recipes and gives pointers for designing like a pro.</desc>
   </programme>
   <programme start="20250523190000 +0000" stop="20250523194336 +0000" channel="jewish-life-television-jltv" clumpidx="0/1">
     <title>A Music City USA Shabbat</title>
@@ -7528,14 +7583,6 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>A Music City USA Shabbat</title>
     <desc>Coming to you from Nashville, Tennessee, Cantor Josh Goldberg and his all-star band leads a Music City USA Shabbat Evening Service, featuring Cantor Josh's dazzling original liturgical compositions. Celebrate Shabbat, Southern Style.</desc>
     <icon/>
-  </programme>
-  <programme start="20250523184512 +0000" stop="20250523185646 +0000" channel="scream-tv" clumpidx="0/1">
-    <title>Trick or Treat (1986)</title>
-    <desc>A bullied teenage boy is devastated after the death of his heavy metal idol, Sammi Curr. But as Halloween night approaches, he discovers that he may be the only one who can stop Sammi from making a Satanic comeback from beyond the grave.</desc>
-  </programme>
-  <programme start="20250523185646 +0000" stop="20250523185946 +0000" channel="scream-tv" clumpidx="0/1">
-    <title>Showing in May</title>
-    <desc/>
   </programme>
   <programme start="20250523185946 +0000" stop="20250523191206 +0000" channel="scream-tv" clumpidx="0/1">
     <title>Trick or Treat (1986)</title>
@@ -7665,6 +7712,14 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>All Hallows Eve (2013)</title>
     <desc>A babysitter finds a VHS tape which features various sinister murders performed by a psychotic clown.</desc>
   </programme>
+  <programme start="20250523225651 +0000" stop="20250523225951 +0000" channel="scream-tv" clumpidx="0/1">
+    <title>Showing in May</title>
+    <desc/>
+  </programme>
+  <programme start="20250523225951 +0000" stop="20250523231137 +0000" channel="scream-tv" clumpidx="0/1">
+    <title>All Hallows Eve (2013)</title>
+    <desc>A babysitter finds a VHS tape which features various sinister murders performed by a psychotic clown.</desc>
+  </programme>
   <programme start="20250523183715 +0000" stop="20250523190721 +0000" channel="true-hollywood-network" clumpidx="0/1">
     <title>Beware of the Dry Lake</title>
     <desc>Facing a challenge like a lake monster absorbing the towns water supply might seem daunting, but the Q-Star League is not deterred. They are determined to protect the residents of Q-Town and investigate the mystery in Mist Forest. Even when evidence suggests there is more to this than meets the eye, the Q-Star League remains steadfast in its mission. With their skills and determination, they are confident they can solve the mystery of the lake monster and solve the water supply crisis.</desc>
@@ -7684,11 +7739,6 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>FINDING CALLARO</title>
     <desc>The once beautiful and lush Planet Kepler is now dry and near death, after its precocious Callaro plant was exploited to extinction by Earthers because the Callaro plant was known throughout the galaxy as a source of super energy. In this outer space 3-D animated adventure reminiscent of JIMMY NEUTRON and AVATAR, three brave Kepler SpaceKids, Axel, Jono, and Gaga, want to rebuild their desolate planet by following the ancient legend of the lost Callaro oasis. Axel leads his friends into danger as they battle evil Earthers, giant spaceships, and destructive Robots as they journey down the depths of a volcano to retrieve the last Callaro seed and try to save the planet.</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/23113/vid/True Hollywood_32-203218/thumbh.jpg</icon>
-  </programme>
-  <programme start="20250523182314 +0000" stop="20250523184835 +0000" channel="vikatan-tv" clumpidx="0/1">
-    <title>Bijli Ramesh shooting spot galatta with Gopi - Sudhakar | Fun Interview</title>
-    <desc>In this Interview, Gopi-Sudhakar talks about their latest crowd founding film, Bijli Ramesh, Yaashika Aanand &amp; much more.</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/23087/vid/vikatan_161-198322/thumbh.jpg</icon>
   </programme>
   <programme start="20250523184835 +0000" stop="20250523191018 +0000" channel="vikatan-tv" clumpidx="0/1">
     <title>""Azeem does the same in shooting spots, he fights" - Arun Rajan | Arnav | Divya"</title>
@@ -7755,25 +7805,10 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc>Ten chickens! Monthly income of ₹2,000!</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/23087/vid/vikatan_51-198241/thumbh.jpg</icon>
   </programme>
-  <programme start="20250523184518 +0000" stop="20250523184851 +0000" channel="kids-tv-india" clumpidx="0/1">
-    <title>Zoo Song Bob The Train Hindi</title>
-    <desc/>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/23088/vid/Bob the Train Hindi_37-206013/thumbh.jpg</icon>
-  </programme>
-  <programme start="20250523184851 +0000" stop="20250523185147 +0000" channel="kids-tv-india" clumpidx="0/1">
-    <title>Hathi Raja Ver4 Little TreeHouse Hindi</title>
-    <desc/>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/23088/vid/Little Treehouse Hindi_51-206182/thumbh.jpg</icon>
-  </programme>
-  <programme start="20250523185147 +0000" stop="20250523185407 +0000" channel="kids-tv-india" clumpidx="0/1">
-    <title>Kukdoo Koo Nimboo Kids Hindi</title>
-    <desc/>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/23088/vid/Animal Kingdom 3 Hindi_2-205950/thumbh.jpg</icon>
-  </programme>
-  <programme start="20250523185407 +0000" stop="20250523185614 +0000" channel="kids-tv-india" clumpidx="0/1">
-    <title>Ek Kawa Pyasa Tha Nimboo Kids Hindi</title>
-    <desc/>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/23088/vid/Nimboo Kids Hindi_53-206460/thumbh.jpg</icon>
+  <programme start="20250523225040 +0000" stop="20250523231216 +0000" channel="vikatan-tv" clumpidx="0/1">
+    <title>Naayagi Episode 14</title>
+    <desc>Nayagi is a 2018 Indian Tamil-language Family Drama series. It premiered on 19 February 2018 on Sun TV, replacing Deivamagal, and was replaced by Anbe Vaa and it ended on 31 October 2020. The show was produced by Vikatan Televistas Pvt Ltd and directed by S Kumaran. Nayagi was also re-aired on Kalaignar TV from 1 March 2021 and it ended its run on 9 July 2022 Plot Anandhi, a middle-class woman, struggles to keep her life together while dealing with an alcoholic father and his debts. Though her landlady Sargunam is formidable, she wishes to destroy Kalivardhan.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/23087/vid/vikatan_158-198370/thumbh.jpg</icon>
   </programme>
   <programme start="20250523185614 +0000" stop="20250523190016 +0000" channel="kids-tv-india" clumpidx="0/1">
     <title>Chal Mere Ghode Tamasha TV Hindi</title>
@@ -8185,10 +8220,15 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc/>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/23088/vid/Loco Nuts Cartoon Hindi_2-205928/thumbh.jpg</icon>
   </programme>
-  <programme start="20250523180000 +0000" stop="20250523185114 +0000" channel="electricnow-en-espanol" clumpidx="0/1">
-    <title>Leverage (Español Latino) - El Caso del Departamento de Defensa</title>
-    <desc>El equipo se infiltra en un laboratorio de investigación del Departamento de Defensa.</desc>
-    <icon>https://img.static-ottera.com/prod/elec/video/thumbnails/widescreen/1920x1080/leverage_s03e15_es.jpg</icon>
+  <programme start="20250523225010 +0000" stop="20250523225618 +0000" channel="kids-tv-india" clumpidx="0/1">
+    <title>Sugar Rush S 3 Loco Nuts Cartoon Hindi</title>
+    <desc/>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/23088/vid/Loco Nuts Cartoon Hindi_5-206266/thumbh.jpg</icon>
+  </programme>
+  <programme start="20250523225618 +0000" stop="20250523230010 +0000" channel="kids-tv-india" clumpidx="0/1">
+    <title>Alex's Bike S 1 Loco Nuts Cartoon Hindi</title>
+    <desc/>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/23088/vid/Loco Nuts Cartoon Hindi_16-206277/thumbh.jpg</icon>
   </programme>
   <programme start="20250523190000 +0000" stop="20250523195343 +0000" channel="electricnow-en-espanol" clumpidx="0/1">
     <title>Leverage (Español Latino) - El Caso de la Campaña Presidencial</title>
@@ -8333,10 +8373,6 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>Aajchi Baat</title>
     <desc>The Anchor Presents The News Updates</desc>
   </programme>
-  <programme start="20250523181628 +0000" stop="20250523185937 +0000" channel="floracing-247" clumpidx="0/1">
-    <title>FloRacing Night in America: Fairbury 9/13/2021</title>
-    <desc>Watch the Castrol FloRacing Night in America feature replay at Fairbury Speedway from Sep 13, 2021 on FloRacing</desc>
-  </programme>
   <programme start="20250523185937 +0000" stop="20250523191805 +0000" channel="floracing-247" clumpidx="0/1">
     <title>Road To Eldora: Longhorn</title>
     <desc>Go inside Longhorn Chassis with Steve Arpin and Ben Shelton in China Grove, NC to see what it takes to compete with the best chassis in the industry.</desc>
@@ -8352,31 +8388,6 @@ The duo also explores how NIL is reshaping the future of college football govern
   <programme start="20250523224653 +0000" stop="20250523232737 +0000" channel="floracing-247" clumpidx="0/1">
     <title>Bridgeport Speedway: Big Block Modifieds 11/10/2019</title>
     <desc>Watch the final Big Block Modified feature to ever take place on Bridgeport Speedway's 5/8-mile layout. From Nov. 10, 2019 on FloRacing.</desc>
-  </programme>
-  <programme start="20250523184315 +0000" stop="20250523184845 +0000" channel="crematv" clumpidx="0/1">
-    <title>Towards the Wind - Aneecha</title>
-    <desc>Feel the crema vibes!</desc>
-    <icon>https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_qsg5v21a/version/0/vid_sec/70/width/1920/height/1080/type/3?a.jpg</icon>
-  </programme>
-  <programme start="20250523184916 +0000" stop="20250523185015 +0000" channel="crematv" clumpidx="0/1">
-    <title>Dalgona Coffee</title>
-    <desc>Feel the crema vibes!</desc>
-    <icon>https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_dribt73b/version/0/vid_sec/20/width/1920/height/1080/type/3?a.jpg</icon>
-  </programme>
-  <programme start="20250523185015 +0000" stop="20250523185355 +0000" channel="crematv" clumpidx="0/1">
-    <title>Kooka Coffee New Coffee Truck</title>
-    <desc>Feel the crema vibes!</desc>
-    <icon>https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_lkt6xj0q/version/0/vid_sec/73/width/1920/height/1080/type/3?a.jpg</icon>
-  </programme>
-  <programme start="20250523185355 +0000" stop="20250523185752 +0000" channel="crematv" clumpidx="0/1">
-    <title>48 Hours in Bangkok in Thailand</title>
-    <desc>Feel the crema vibes!</desc>
-    <icon>https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_guiafd6v/version/0/vid_sec/39/width/1920/height/1080/type/3?a.jpg</icon>
-  </programme>
-  <programme start="20250523185752 +0000" stop="20250523185908 +0000" channel="crematv" clumpidx="0/1">
-    <title>Single O Parachutes Surprisingly Good</title>
-    <desc>Feel the crema vibes!</desc>
-    <icon>https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_iiq3n3wr/version/0/vid_sec/25/width/1920/height/1080/type/3?a.jpg</icon>
   </programme>
   <programme start="20250523190000 +0000" stop="20250523190559 +0000" channel="crematv" clumpidx="0/1">
     <title>Irish Coffee Recipe: A Tropical Twist on a Classic Drink</title>
@@ -8573,6 +8584,21 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc>Visiting The Coffee Connection in Oswego, New York in the USA.</desc>
     <icon>https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_ogi1sywk/version/0/vid_sec/51/width/1920/height/1080/type/3?a.jpg</icon>
   </programme>
+  <programme start="20250523224838 +0000" stop="20250523225120 +0000" channel="crematv" clumpidx="0/1">
+    <title>Introducing Onibus Coffee from Tokyo in Japan</title>
+    <desc>Onibus means bus stop in Portuguese and signifies a place for everyone to connect.</desc>
+    <icon>https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_dx2bpdyu/version/0/vid_sec/54/width/1920/height/1080/type/3?a.jpg</icon>
+  </programme>
+  <programme start="20250523225120 +0000" stop="20250523225557 +0000" channel="crematv" clumpidx="0/1">
+    <title>Black Coffee Northwest, Washington</title>
+    <desc>Visiting Black Coffee Northwest in Washington in the USA.</desc>
+    <icon>https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_r36aerdc/version/0/vid_sec/92/width/1920/height/1080/type/3?a.jpg</icon>
+  </programme>
+  <programme start="20250523225557 +0000" stop="20250523225754 +0000" channel="crematv" clumpidx="0/1">
+    <title>Colombian Coffee Done Right at the Coffee Shop Salvo Patria</title>
+    <desc>Visiting coffee shop Salvo Patria in Bogotà in Colombia.</desc>
+    <icon>https://cdnapisec.kaltura.com/p/513551/sp/51355100/thumbnail/entry_id/1_6wjzvg18/version/0/vid_sec/39/width/1920/height/1080/type/3?a.jpg</icon>
+  </programme>
   <programme start="20250523183000 +0000" stop="20250523190000 +0000" channel="negocios-tv" clumpidx="0/1">
     <title>Live</title>
     <desc/>
@@ -8604,11 +8630,6 @@ The duo also explores how NIL is reshaping the future of college football govern
   <programme start="20250523221500 +0000" stop="20250523230000 +0000" channel="negocios-tv" clumpidx="0/1">
     <title>Live</title>
     <desc/>
-  </programme>
-  <programme start="20250523183740 +0000" stop="20250523185211 +0000" channel="feva-tv" clumpidx="0/1">
-    <title>Cry Freedom Seg3</title>
-    <desc/>
-    <icon>https://streaming002.muxip.com/file/thumbnail/40103883-8305-4b02-80cc-5238407a385f.jpg</icon>
   </programme>
   <programme start="20250523185211 +0000" stop="20250523190411 +0000" channel="feva-tv" clumpidx="0/1">
     <title>Me and MI kru S1 EP 1 SEG 2</title>
@@ -8714,11 +8735,6 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>ENCORE: PSA Squash Paris 2024 | El Hammamy v Sobhy</title>
     <desc>Replay - Paris Squash 2024 - Rd1 - Hania El Hammamy v Sabrina Sobhy</desc>
   </programme>
-  <programme start="20250523183720 +0000" stop="20250523185233 +0000" channel="feva-music" clumpidx="0/1">
-    <title>BLACK AND WHITE S1 EP1 SEG1</title>
-    <desc/>
-    <icon>https://d2lad8afzgjajc.cloudfront.net/file/thumbnail/d9d9bf2e-bdd7-467c-b0f2-825fe5acab9c.png</icon>
-  </programme>
   <programme start="20250523185233 +0000" stop="20250523194535 +0000" channel="feva-music" clumpidx="0/1">
     <title>AFRICA MASH UP EPISODE4</title>
     <desc/>
@@ -8764,20 +8780,10 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc/>
     <icon>https://d2lad8afzgjajc.cloudfront.net/file/thumbnail/1be264df-fe5b-4419-8b7c-22e78fa71239.png</icon>
   </programme>
-  <programme start="20250523184607 +0000" stop="20250523185028 +0000" channel="la-bocina-latina" clumpidx="0/1">
-    <title>La Bodega: Manos de Tijera - Yiyo Sarante</title>
+  <programme start="20250523225745 +0000" stop="20250523231229 +0000" channel="feva-music" clumpidx="0/1">
+    <title>Intimate Live _Tiffany Malvo Seg 2</title>
     <desc/>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/23040/vid/La Bodega_41-240406/thumbh.jpg</icon>
-  </programme>
-  <programme start="20250523185028 +0000" stop="20250523185544 +0000" channel="la-bocina-latina" clumpidx="0/1">
-    <title>La Bodega: La Bachata - Manuel Turizo</title>
-    <desc/>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/23040/vid/La Bodega_55-240419/thumbh.jpg</icon>
-  </programme>
-  <programme start="20250523185544 +0000" stop="20250523185834 +0000" channel="la-bocina-latina" clumpidx="0/1">
-    <title>La Bodega: SIRI - Romeo Santos &amp; Chris Lebron</title>
-    <desc/>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/23040/vid/La Bodega_48-240413/thumbh.jpg</icon>
+    <icon>https://d2lad8afzgjajc.cloudfront.net/file/thumbnail/3688c9ef-09b6-4acb-836d-48c18bb3e159.png</icon>
   </programme>
   <programme start="20250523185834 +0000" stop="20250523190325 +0000" channel="la-bocina-latina" clumpidx="0/1">
     <title>La Bodega: Mambo 23 - Juan Luis Guerra</title>
@@ -9039,6 +9045,21 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc/>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/23040/vid/House Party_89-240398/thumbh.jpg</icon>
   </programme>
+  <programme start="20250523224907 +0000" stop="20250523225427 +0000" channel="la-bocina-latina" clumpidx="0/1">
+    <title>House Party,Best of Bad Bunny: Lollipop - Darell</title>
+    <desc/>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/23040/vid/House Party_80-240389/thumbh.jpg</icon>
+  </programme>
+  <programme start="20250523225427 +0000" stop="20250523225814 +0000" channel="la-bocina-latina" clumpidx="0/1">
+    <title>House Party,Best of Bad Bunny: Flow Cabron - Arcangel &amp; Tali</title>
+    <desc/>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/23040/vid/House Party_92-240401/thumbh.jpg</icon>
+  </programme>
+  <programme start="20250523225814 +0000" stop="20250523230247 +0000" channel="la-bocina-latina" clumpidx="0/1">
+    <title>House Party,Best of Bad Bunny: Fantasías - Rauw Alejandro, Anuel AA, Natti Natasha Ft. Farruko y Lunay</title>
+    <desc/>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/23040/vid/House Party_55-240364/thumbh.jpg</icon>
+  </programme>
   <programme start="20250523183001 +0000" stop="20250523190000 +0000" channel="lakshya-tv" clumpidx="0/1">
     <title>Suprabhat</title>
     <desc>Bhakti</desc>
@@ -9174,16 +9195,6 @@ The duo also explores how NIL is reshaping the future of college football govern
   <programme start="20250523223000 +0000" stop="20250523230000 +0000" channel="always-funny-en-espanol" clumpidx="0/1">
     <title>El Top 25</title>
     <desc>¡Ríete con nosotros mientras te traemos los 25 videos más divertidos de AFV!</desc>
-  </programme>
-  <programme start="20250523184510 +0000" stop="20250523185216 +0000" channel="toonzkids" clumpidx="0/1">
-    <title>Water, Water Every Where</title>
-    <desc>GrandPA takes the trio for a small ride to the nearby towns newly opened mini waterpark. Cat is all excited and is wearing water goggles and a snorkeling gear.</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/23131/vid/Cat &amp; KeetEN_63-228334/thumbh.jpg</icon>
-  </programme>
-  <programme start="20250523185216 +0000" stop="20250523185628 +0000" channel="toonzkids" clumpidx="0/1">
-    <title>Pirate Song</title>
-    <desc>Hey kids! Emmie our cute little elephant loves dancing &amp; sings good english songs. Its time to enjoy the pirate song &amp; more with Emmie! Sway and listen to great kids song like Pirate song , Rain, Catch a wave and hula hoop! Get your preschooler grooving to the beats!</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/23131/vid/Emmie The ElephantEN_12-228009/thumbh.jpg</icon>
   </programme>
   <programme start="20250523185628 +0000" stop="20250523190444 +0000" channel="toonzkids" clumpidx="0/1">
     <title>Who Ate it?</title>
@@ -9330,10 +9341,10 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc>Cat is king at GrandPA’s house but out on the street it’s a different story. The “Mean Cats” are a local gang of street cats that always pull a fast one on Cat.</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/23131/vid/Cat &amp; KeetEN_36-227947/thumbh.jpg</icon>
   </programme>
-  <programme start="20250523183711 +0000" stop="20250523185111 +0000" channel="toonzkids-atfal" clumpidx="0/1">
-    <title>Let's Dance</title>
-    <desc>To complete the next step on her Mondojitsu Path, April has to master the dance of the falcon. Since Xia won’t help because he’s too embarrassed to dance with her, April accepts the assistance of Mei, who turns out to be a great dancer. While they’re distracted, Negu sends Amkko and Koto to steal the Glove of the North, but Mei, who feels appreciated for the first time in his life, helps April to win it back.</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/23131/vid/MondoYanAR_43-230713/thumbh.jpg</icon>
+  <programme start="20250523225340 +0000" stop="20250523230745 +0000" channel="toonzkids" clumpidx="0/1">
+    <title>Good Luck, Bad Luck</title>
+    <desc>The lucky amulet April has bought arrives in the mail. Pai and Xia make fun of her – until they see that April is suddenly top in every discipline. First Pai and then Xia steals her amulet, and whoever has it wins at everything. They are arguing over who should keep the amulet, when Maestro Woof reveals it wasn’t the amulet April bought at all. It was a pumice stone that he had ordered. The Guardians realize that good luck doesn’t depend on outside factors but comes from inside themselves.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/23131/vid/Mondo YanEN_50-228125/thumbh.jpg</icon>
   </programme>
   <programme start="20250523185111 +0000" stop="20250523190040 +0000" channel="toonzkids-atfal" clumpidx="0/1">
     <title>Pinecone</title>
@@ -9485,10 +9496,10 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc>Colonel has gifted Don a brand new bike. But Don cant ride even to save his life! Colonel trains him but in vain! He bumps into other cars, stalls, crops until he finally bumps into Ballu!</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/23131/vid/Rat A TatAR_23-230745/thumbh.jpg</icon>
   </programme>
-  <programme start="20250523184342 +0000" stop="20250523185756 +0000" channel="toonzkids-ninos" clumpidx="0/1">
-    <title>Fairy Dust_Based On Sleeping Beauty</title>
-    <desc>In the tale of Sleeping Beauty, the Prince kisses the Princess, expecting her to finally awaken from her long sleep. But, against all the odds, the Princess sleeps on. SANDRA, assisted by FO, discovers that the Princess’s lips are covered in magic dust. One of the characters in the tale of Sleeping Beauty does not want the princess to ever wake up</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/23131/vid/SandraES_4-231422/thumbh.jpg</icon>
+  <programme start="20250523225806 +0000" stop="20250523230654 +0000" channel="toonzkids-atfal" clumpidx="0/1">
+    <title>Cinema Night</title>
+    <desc>Blockbusters have released and Don and Colonel are in the theatre to get tickets. But the naughty rats pick their pocket and buy tickets. Now the dogs are penniless and would go to any extend to get into the theatre. But when the trio enters the picture, the poor dogs suffer like anything. But, Larry Marly and Charly will end up in deep mess. Wait and watch!</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/23131/vid/Rat A TatAR_48-230770/thumbh.jpg</icon>
   </programme>
   <programme start="20250523185756 +0000" stop="20250523190733 +0000" channel="toonzkids-ninos" clumpidx="0/1">
     <title>Frozen</title>
@@ -9605,6 +9616,11 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc>Aladdins in big trouble when he forgets to deliver the egg traders eggs to market. Luckily Jamillah brings him a bike. After teaching him how to ride, they head off to deliver the eggs only for them to break them along the way. They eventually have to ask Genie to help by conjuring some eggs. After a few failed attempts it seems he manages it but we discover Genies magic eggs have a surprise inside that delights the customers.</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/23131/vid/Jamillah and AlladinES_14-231224/thumbh.jpg</icon>
   </programme>
+  <programme start="20250523225339 +0000" stop="20250523230545 +0000" channel="toonzkids-ninos" clumpidx="0/1">
+    <title>You're All Useless!</title>
+    <desc>Negu is sick and tired of Amkko, Koto and Mei’s uselessness and kicks them out. The Guardians try to teach them to behave properly so they can fit in in the Yan World, but the Mutants are the worst students ever. Negu sends them a message saying that if they snatch the Glove of the North, he’ll take them back, so Mei tricks the Guardians into taking them to the Magic Fort and tries to steal the glove. Everyone is relieved that the Mutants are back to normal.</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/23131/vid/MondoYanES_47-231335/thumbh.jpg</icon>
+  </programme>
   <programme start="20250523183048 +0000" stop="20250523202236 +0000" channel="romance-channel" clumpidx="0/1">
     <title>Pasado pero no olvidado</title>
     <desc>Liuba conoce a un hombre encantador. Él resulta ser el nuevo director de la planta y ya no es tan amable.</desc>
@@ -9652,10 +9668,6 @@ The duo also explores how NIL is reshaping the future of college football govern
   <programme start="20250523223000 +0000" stop="20250523230000 +0000" channel="ntd-news" clumpidx="0/1">
     <title>NTD Evening News</title>
     <desc>News from the U.S. and around the world.</desc>
-  </programme>
-  <programme start="20250523180500 +0000" stop="20250523185500 +0000" channel="al-arabiya" clumpidx="0/1">
-    <title>Mahal Niqash</title>
-    <desc>A live talk show exploring controversial topics and issues.</desc>
   </programme>
   <programme start="20250523190000 +0000" stop="20250523200500 +0000" channel="al-arabiya" clumpidx="0/1">
     <title>Al Arabiya News</title>
@@ -9725,10 +9737,6 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>Soul Detective</title>
     <desc>"An officer from the underworld joins forces with a policeman to track down evil spirits that have escaped to the mortal realm. Together, they explore the good and evil of human nature. This drama combines traditional and modern elements to bring a new fantasy experience to the audience. "</desc>
   </programme>
-  <programme start="20250523183910 +0000" stop="20250523185703 +0000" channel="mediacorp-entertainment-english" clumpidx="0/1">
-    <title>Its In Our Nature</title>
-    <desc>A million wildlife species are facing the threat of extinction. But why does this matter to a tiny city state like Singapore? What do we stand to lose if our wildlife go extinct? Host Lam Shushan comes face to face with some of the rarest creatures in the world and meets the tenacious frontliners who are racing to save our native wildlife from extinction.</desc>
-  </programme>
   <programme start="20250523190000 +0000" stop="20250523193706 +0000" channel="mediacorp-entertainment-english" clumpidx="0/1">
     <title>Incredible Tales Sr 7</title>
     <desc>Hosted by Utt, Incredible Tales returns for Season 7, featuring more ghoulish stories of paranormal encounters from Singapore, Malaysia, Thailand and Philippines. Incredible Tales is all about ghost stories told through generations, crossing boundaries of culture and language. Stories that generate intrigue, fascination, and fear.</desc>
@@ -9760,10 +9768,6 @@ The duo also explores how NIL is reshaping the future of college football govern
   <programme start="20250523223552 +0000" stop="20250523225551 +0000" channel="mediacorp-entertainment-english" clumpidx="0/1">
     <title>Its In Our Nature</title>
     <desc>A million wildlife species are facing the threat of extinction. But why does this matter to a tiny city state like Singapore? What do we stand to lose if our wildlife go extinct? Host Lam Shushan comes face to face with some of the rarest creatures in the world and meets the tenacious frontliners who are racing to save our native wildlife from extinction.</desc>
-  </programme>
-  <programme start="20250523181407 +0000" stop="20250523185444 +0000" channel="mediacorp-entertainment-tamil" clumpidx="0/1">
-    <title>Vettai</title>
-    <desc>"They are part of a special task force assembled to tackle cases pertaining to the Indian community and Indian immigrants. The unit is not widely publicized and their work is kept under wraps.   Spearheaded by Chief Dayanidhi, the team consists of three teams and an assigned criminologist. Together they try to tackle cold blooded murders, kidnaps and sexual crimes. But as their professional and personal lives collide, the team is headed towards a perilous outcome. Lives will be lost and bonds will be broken. The pledge that they made to uphold justice and peace in the country that they love will be put to the test.   How will they survive? Where does it all lead to? Who is the villain and who is the hero?"</desc>
   </programme>
   <programme start="20250523190000 +0000" stop="20250523194042 +0000" channel="mediacorp-entertainment-tamil" clumpidx="0/1">
     <title>Vettai</title>
@@ -9845,11 +9849,6 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>2000s Bollywood Hits</title>
     <desc>Get your groove on and elevate your day with Hrithik Roshan's infectious energy.</desc>
   </programme>
-  <programme start="20250523184328 +0000" stop="20250523185820 +0000" channel="pitufo-tv" clumpidx="0/1">
-    <title>Los Pitufos - Torpe Adivina El Futuro</title>
-    <desc>Los Pitufos son pequeños y alegres seres azules. ¡Sigue sus aventuras más emocionantes y mágicas!</desc>
-    <icon>https://img.static-ottera.com/prod/imps/video/thumbnails/widescreen/1920x1080/screenshot_2025-05-12_122638.jpg</icon>
-  </programme>
   <programme start="20250523190000 +0000" stop="20250523191446 +0000" channel="pitufo-tv" clumpidx="0/1">
     <title>Los Pitufos - Los Pitufos De Jengibre</title>
     <desc>Pitufo Filósofo se siente preparado para la ocasión cuando empieza a preparar una receta de galletas.</desc>
@@ -9909,6 +9908,11 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>Los Pitufos - Sassette</title>
     <desc>Los Pitufos son pequeños y alegres seres azules. ¡Sigue sus aventuras más emocionantes y mágicas!</desc>
     <icon>https://img.static-ottera.com/prod/imps/video/thumbnails/widescreen/1920x1080/screenshot_2025-05-12_142048.jpg</icon>
+  </programme>
+  <programme start="20250523230000 +0000" stop="20250523231346 +0000" channel="pitufo-tv" clumpidx="0/1">
+    <title>Los Pitufos - De Tal Palo Tal Astilla</title>
+    <desc>Los Pitufos son pequeños y alegres seres azules. ¡Sigue sus aventuras más emocionantes y mágicas!</desc>
+    <icon>https://img.static-ottera.com/prod/imps/video/thumbnails/widescreen/1920x1080/screenshot_2025-05-12_at_12.21.12_pm.jpg</icon>
   </programme>
   <programme start="20250523183000 +0000" stop="20250523190000 +0000" channel="toon-goggles-en-espanol" clumpidx="0/1">
     <title>Pim y Pom en el Museo</title>
@@ -10021,21 +10025,6 @@ The duo also explores how NIL is reshaping the future of college football govern
   <programme start="20250523223000 +0000" stop="20250523230000 +0000" channel="always-funny-pranks-and-fails" clumpidx="0/1">
     <title>Fail Center</title>
     <desc>Fail Center showcases the funniest fail videos matched with comedic sports commentary.</desc>
-  </programme>
-  <programme start="20250523184601 +0000" stop="20250523184901 +0000" channel="dronetv" clumpidx="0/1">
-    <title>Florida's Gulf Coast by Drone, Part 2</title>
-    <desc>Enjoy the best of Florida's warm and sunny views in this remarkable footage captured by featured drone pilots from the AirVuz community.</desc>
-    <icon>https://streaming002.muxip.com/file/thumbnail/3bd11913-7b5a-489f-87be-91a965931a70.jpg</icon>
-  </programme>
-  <programme start="20250523184901 +0000" stop="20250523185401 +0000" channel="dronetv" clumpidx="0/1">
-    <title>Europe: The Alps from Above, Part 4</title>
-    <desc>The majestic Alps Mountains of Europe are on display in their full grandeur in these drone views.</desc>
-    <icon>https://streaming002.muxip.com/file/thumbnail/a4b7588d-9100-4ba6-9e69-cbfef4d09939.jpg</icon>
-  </programme>
-  <programme start="20250523185401 +0000" stop="20250523185701 +0000" channel="dronetv" clumpidx="0/1">
-    <title>Rally Racing and Drones, Part 2</title>
-    <desc>Get a bird's eye view of some epic rally racers in these drone videos.</desc>
-    <icon>https://streaming002.muxip.com/file/thumbnail/cc609859-6fca-4adb-a2fc-524c0230a9a4.jpg</icon>
   </programme>
   <programme start="20250523185701 +0000" stop="20250523190001 +0000" channel="dronetv" clumpidx="0/1">
     <title>Mountain Surfing Captured by First Person View Drones,, Part 3</title>
@@ -10337,10 +10326,25 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc>See the spectacular scenery of France's northern region in this compilation of drone footage</desc>
     <icon>https://streaming002.muxip.com/file/thumbnail/9b1ff2d3-a4eb-4c70-ac48-6955e8f32a09.jpg</icon>
   </programme>
-  <programme start="20250523184454 +0000" stop="20250523185624 +0000" channel="surf-roots-tv" clumpidx="0/1">
-    <title>The Road Episode 3</title>
-    <desc/>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/23139/vid/The Road_THEROAD3-246170/thumbh.jpg</icon>
+  <programme start="20250523224738 +0000" stop="20250523225038 +0000" channel="dronetv" clumpidx="0/1">
+    <title>Ruins in Greece, Explored from Above, Part 1</title>
+    <desc>Soar over beautiful and historic ruins in Greece in these incredible drone videos, courtesy of elite pilots from the AirVuz community.</desc>
+    <icon>https://streaming002.muxip.com/file/thumbnail/65eed281-b5f8-48da-ae3c-c0bcc4fe0efd.jpg</icon>
+  </programme>
+  <programme start="20250523225038 +0000" stop="20250523225338 +0000" channel="dronetv" clumpidx="0/1">
+    <title>Aerial Views of Vietnam, Part 2</title>
+    <desc>Explore the islands, lush countryside, and cities of Vietnam via beautiful drone footage captured by pilots in the AirVuz community.</desc>
+    <icon>https://streaming002.muxip.com/file/thumbnail/cca4f7e2-0427-430c-8503-5b68282d5c72.jpg</icon>
+  </programme>
+  <programme start="20250523225338 +0000" stop="20250523225839 +0000" channel="dronetv" clumpidx="0/1">
+    <title>Exploring Tanzania from Above, Part 1</title>
+    <desc>Soar high above  - via drone - to experience Africa's beautiful country of Tanzania.</desc>
+    <icon>https://streaming002.muxip.com/file/thumbnail/8699fcd1-925c-4cab-a32e-eda5473b616e.jpg</icon>
+  </programme>
+  <programme start="20250523225839 +0000" stop="20250523230139 +0000" channel="dronetv" clumpidx="0/1">
+    <title>Exploring Finland from Above, Part 1</title>
+    <desc>Wander through the countryside, villages, and coastline of Finland in this great drone footage.</desc>
+    <icon>https://streaming002.muxip.com/file/thumbnail/77f7f228-f6b2-4b9a-a54c-88747df24b26.jpg</icon>
   </programme>
   <programme start="20250523185624 +0000" stop="20250523190100 +0000" channel="surf-roots-tv" clumpidx="0/1">
     <title>Slightly Dirty Summer Tour Kick Off Special</title>
@@ -10562,6 +10566,16 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc/>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/23139/vid/Main Mix_MAINMIX241-246038/thumbh.jpg</icon>
   </programme>
+  <programme start="20250523225109 +0000" stop="20250523225506 +0000" channel="surf-roots-tv" clumpidx="0/1">
+    <title>The Green feat. J Boog 'Mama Roots'</title>
+    <desc/>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/23139/vid/Main Mix_MAINMIX20-245817/thumbh.jpg</icon>
+  </programme>
+  <programme start="20250523225506 +0000" stop="20250523230133 +0000" channel="surf-roots-tv" clumpidx="0/1">
+    <title>Kashd Out ‘Always Vibin’</title>
+    <desc/>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/23139/vid/With Intro_WINTRO40-246121/thumbh.jpg</icon>
+  </programme>
   <programme start="20250523183001 +0000" stop="20250523193000 +0000" channel="global-punjab-tv" clumpidx="0/1">
     <title>Good Morning Punjab</title>
     <desc>Good Morning Punjab</desc>
@@ -10581,11 +10595,6 @@ The duo also explores how NIL is reshaping the future of college football govern
   <programme start="20250523223000 +0000" stop="20250523233000 +0000" channel="global-punjab-tv" clumpidx="0/1">
     <title>Morning News</title>
     <desc>Khabar Punjabi</desc>
-  </programme>
-  <programme start="20250523183000 +0000" stop="20250523185730 +0000" channel="pll-network" clumpidx="0/1">
-    <title>For Something Bigger</title>
-    <desc>Alex Aust Holman has been one of the most impactful players in the modern era of women's lacrosse. Now at the</desc>
-    <icon>https://img.static-ottera.com/prod/bbb/video/thumbnails/widescreen/1920x1080/pll734_landscape.jpg</icon>
   </programme>
   <programme start="20250523190000 +0000" stop="20250523200000 +0000" channel="pll-network" clumpidx="0/1">
     <title>2025 WLL All-Star Game Selection Show</title>
@@ -10663,11 +10672,6 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>MAHADEV SPECIAL</title>
     <desc>SPIRITAUL BHAJANS OF MAHADEV</desc>
   </programme>
-  <programme start="20250523183000 +0000" stop="20250523185955 +0000" channel="jyotish-duniya" clumpidx="0/1">
-    <title>Number &amp; Thier Energies</title>
-    <desc>Numerologist Ginni Aneja reveals some amazing insights of numerology</desc>
-    <icon>https://d14c63magvk61v.cloudfront.net/hls/23190/vid/Numerology_JD_NM_19_Dance Of Numbers-257138/thumbh.jpg</icon>
-  </programme>
   <programme start="20250523185955 +0000" stop="20250523192955 +0000" channel="jyotish-duniya" clumpidx="0/1">
     <title>Switch Words &amp; Number for Growth</title>
     <desc>"Unlock personal and professional success using powerful switch words and numerology codes designed to attract growth, abundance, and new opportunities."</desc>
@@ -10743,6 +10747,11 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc>"Serene music to unwind after a long day covering different tunes like music for de-stressing, nature sounds, etc."</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/23192/vid/Meditation Music_HIYMM007-252812/thumbh.jpg</icon>
   </programme>
+  <programme start="20250523224751 +0000" stop="20250523233152 +0000" channel="indian-yoga-and-wellness-tv" clumpidx="0/1">
+    <title>Music for Inner Peace</title>
+    <desc>"Serene music to unwind after a long day covering different tunes like music for de-stressing, nature sounds, etc."</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/23192/vid/Meditation Music_HIYMM004-252809/thumbh.jpg</icon>
+  </programme>
   <programme start="20250523183135 +0000" stop="20250523190835 +0000" channel="indian-yoga-and-wellness-tv-telugu" clumpidx="0/1">
     <title>Music for Calmness</title>
     <desc>"Serene music to unwind after a long day covering different tunes like music for de-stressing, nature sounds, etc."</desc>
@@ -10777,6 +10786,11 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>Music for Deep sleep</title>
     <desc>"Serene music to unwind after a long day covering different tunes like music for de-stressing, nature sounds, etc."</desc>
     <icon>https://d14c63magvk61v.cloudfront.net/hls/23192/vid/Meditation Music Telugu_TIYMM003-253024/thumbh.jpg</icon>
+  </programme>
+  <programme start="20250523224836 +0000" stop="20250523233136 +0000" channel="indian-yoga-and-wellness-tv-telugu" clumpidx="0/1">
+    <title>Music for Meditation</title>
+    <desc>"Serene music to unwind after a long day covering different tunes like music for de-stressing, nature sounds, etc."</desc>
+    <icon>https://d14c63magvk61v.cloudfront.net/hls/23192/vid/Meditation Music Telugu_TIYMM005-253026/thumbh.jpg</icon>
   </programme>
   <programme start="20250523181000 +0000" stop="20250523205000 +0000" channel="willow-sports" clumpidx="0/1">
     <title>England vs. West Indies</title>
@@ -10813,6 +10827,10 @@ The duo also explores how NIL is reshaping the future of college football govern
   <programme start="20250523210000 +0000" stop="20250523225500 +0000" channel="al-jazeera" clumpidx="0/1">
     <title>Mid Night</title>
     <desc>Including: News Summary@01:00 Press, Sport , New Media</desc>
+  </programme>
+  <programme start="20250523225500 +0000" stop="20250523230000 +0000" channel="al-jazeera" clumpidx="0/1">
+    <title>Weather Forecast</title>
+    <desc>A look at what the weather has in store. With international forecasts, temperatures and weather warnings.</desc>
   </programme>
   <programme start="20250523180000 +0000" stop="20250523190000 +0000" channel="al-jazeera-english" clumpidx="0/1">
     <title>Newshour</title>
@@ -10866,10 +10884,6 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>LIT GAANE</title>
     <desc>HIT EXPRESS 0-5</desc>
   </programme>
-  <programme start="20250523180000 +0000" stop="20250523190000 +0000" channel="cna" clumpidx="0/1">
-    <title>Undercover Asia S8</title>
-    <desc>Undercover Asia S8</desc>
-  </programme>
   <programme start="20250523190000 +0000" stop="20250523200000 +0000" channel="cna" clumpidx="0/1">
     <title>Asia Tonight 2025/2026 - Thu 22 May 2025 - 1/4-01</title>
     <desc>Asia Tonight 2025/2026 - Thu 22 May 2025 - 1/4-01</desc>
@@ -10885,6 +10899,10 @@ The duo also explores how NIL is reshaping the future of college football govern
   <programme start="20250523220000 +0000" stop="20250523230000 +0000" channel="cna" clumpidx="0/1">
     <title>East Asia Tonight 2025/2026 - Fri 23 May 2025 --01</title>
     <desc/>
+  </programme>
+  <programme start="20250523230000 +0000" stop="20250524000000 +0000" channel="cna" clumpidx="0/1">
+    <title>Insight 2022/2023</title>
+    <desc>Insight 2022/2023</desc>
   </programme>
   <programme start="20250523181900 +0000" stop="20250523191300 +0000" channel="ghost-dimension" clumpidx="0/1">
     <title>High Spirits at The Gothic Mansion</title>
@@ -10937,10 +10955,6 @@ The duo also explores how NIL is reshaping the future of college football govern
   <programme start="20250523210000 +0000" stop="20250523230000 +0000" channel="comercio-tv" clumpidx="0/1">
     <title>Buenos Días Wall Street</title>
     <desc>Programa en vivo con análisis del mercado, noticias financieras y entrevistas con expertos.</desc>
-  </programme>
-  <programme start="20250523184600 +0000" stop="20250523185200 +0000" channel="cartoon-classics" clumpidx="0/1">
-    <title>popeye for president 2 (1080)</title>
-    <desc/>
   </programme>
   <programme start="20250523185200 +0000" stop="20250523190200 +0000" channel="cartoon-classics" clumpidx="0/1">
     <title>A Cartoonist's Nightmare 1935</title>
@@ -11058,9 +11072,9 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>Me Feelins is Hurt 1940</title>
     <desc>Olive writes a letter to Popeye: she's through with sailors; it's cowboys for her. Popeye immediately sails off to the West, where he finds, who else, Bluto as the head of the ranch where Olive is enthralled. Bluto gives Popeye a wild horse to ride, and, after a few humiliating defeats, Popeye conquers it (and wins back Olive's heart). Bluto punches Popeye out, and into the clutches of what can best be described as a rattlesnake constrictor. Bluto then starts menacing Olive, so Popeye eats his spinach, saves her, and defeats Bluto and his gang.</desc>
   </programme>
-  <programme start="20250523182500 +0000" stop="20250523185900 +0000" channel="comedy-classics" clumpidx="0/1">
-    <title>The Jack Benny Program 1955: Season 5: Episode 10; Four O'clock in the Morning</title>
-    <desc>After being awakened at 4:00 a.m. by a phone call from "Hank, The All Night Radio DJ", Jack finds that he can't get back to sleep. Later that day, exhausted from lack of sleep, he and Mary go to a clothing store to buy him a new suit, but it turns into much more of an ordeal than he ever thought it would be</desc>
+  <programme start="20250523225100 +0000" stop="20250523230100 +0000" channel="cartoon-classics" clumpidx="0/1">
+    <title>Scotty Finds a Home 1935</title>
+    <desc>A young anthropomorphic kitten wants a pet. He happens to find a puppy with no owner and takes him in. When the Scotty tracks mud into the house, Grandma says that her grandson cannot keep him. A transient bulldog is walking by as Grandma puts a pie in the windowsill to cool. He barges into the house and terrorizes the family, demanding they feed him. Scotty rushes back to the house and saves the family, causing Grandma to decide that they can keep him after all.</desc>
   </programme>
   <programme start="20250523185900 +0000" stop="20250523192100 +0000" channel="comedy-classics" clumpidx="0/1">
     <title>The Fatal Glass of Beer 1933</title>
@@ -11113,18 +11127,6 @@ The duo also explores how NIL is reshaping the future of college football govern
   <programme start="20250523224700 +0000" stop="20250524000300 +0000" channel="old-west-tv" clumpidx="0/1">
     <title>The Crooked Trail  1936</title>
     <desc>Jim Blake rescues criminal Hare Talton and Good Samaritan Estaban Solano from dehydration and death and tries to rehabilitate Harve by taking him in as partner in his gold strike.</desc>
-  </programme>
-  <programme start="20250523184600 +0000" stop="20250523185100 +0000" channel="4acetv" clumpidx="0/1">
-    <title>ed sheeran -boat</title>
-    <desc/>
-  </programme>
-  <programme start="20250523185100 +0000" stop="20250523185500 +0000" channel="4acetv" clumpidx="0/1">
-    <title>mr eazi feat. dj trico &amp; joey b - patek</title>
-    <desc/>
-  </programme>
-  <programme start="20250523185500 +0000" stop="20250523185900 +0000" channel="4acetv" clumpidx="0/1">
-    <title>allegra -round  round</title>
-    <desc/>
   </programme>
   <programme start="20250523185900 +0000" stop="20250523190500 +0000" channel="4acetv" clumpidx="0/1">
     <title>kendrick lamar- not like us</title>
@@ -11346,8 +11348,16 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>vic mensa -strawberry louis vuitton</title>
     <desc/>
   </programme>
-  <programme start="20250523182600 +0000" stop="20250523185600 +0000" channel="4acetv-afrobeat" clumpidx="0/1">
-    <title>4acetv presents : dj holy x | afrobeats mix 2025 (afrocircle mix 003 ) | pt1</title>
+  <programme start="20250523225000 +0000" stop="20250523225300 +0000" channel="4acetv" clumpidx="0/1">
+    <title>ellie goulding -like a saviour</title>
+    <desc/>
+  </programme>
+  <programme start="20250523225300 +0000" stop="20250523225800 +0000" channel="4acetv" clumpidx="0/1">
+    <title>tyga  &amp; sabrina claudio -no question</title>
+    <desc/>
+  </programme>
+  <programme start="20250523225800 +0000" stop="20250523230200 +0000" channel="4acetv" clumpidx="0/1">
+    <title>ezra collective  feat yazmin lacey - god gave me feet for dancing</title>
     <desc/>
   </programme>
   <programme start="20250523185600 +0000" stop="20250523190100 +0000" channel="4acetv-afrobeat" clumpidx="0/1">
@@ -11534,6 +11544,18 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>dj spinall ft fireboy dml - sere</title>
     <desc/>
   </programme>
+  <programme start="20250523224900 +0000" stop="20250523225300 +0000" channel="4acetv-afrobeat" clumpidx="0/1">
+    <title>fireboy dml - playboy</title>
+    <desc/>
+  </programme>
+  <programme start="20250523225300 +0000" stop="20250523225900 +0000" channel="4acetv-afrobeat" clumpidx="0/1">
+    <title>ruger - asiwaju</title>
+    <desc/>
+  </programme>
+  <programme start="20250523225900 +0000" stop="20250523230200 +0000" channel="4acetv-afrobeat" clumpidx="0/1">
+    <title>blaqbonez   ft amaarae  buju  - bling</title>
+    <desc/>
+  </programme>
   <programme start="20250523174900 +0000" stop="20250523190900 +0000" channel="4acetv-classic-hits" clumpidx="0/1">
     <title>classicretropophitvol2</title>
     <desc/>
@@ -11550,10 +11572,6 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>classicretropophitvol8</title>
     <desc/>
   </programme>
-  <programme start="20250523173800 +0000" stop="20250523185200 +0000" channel="4acetv-rnb" clumpidx="0/1">
-    <title>4acetv90srnbvol2</title>
-    <desc/>
-  </programme>
   <programme start="20250523185200 +0000" stop="20250523200200 +0000" channel="4acetv-rnb" clumpidx="0/1">
     <title>4acetvrnbvol1</title>
     <desc/>
@@ -11568,10 +11586,6 @@ The duo also explores how NIL is reshaping the future of college football govern
   </programme>
   <programme start="20250523223300 +0000" stop="20250523234300 +0000" channel="4acetv-rnb" clumpidx="0/1">
     <title>4acetvrnbvol1 ver 2</title>
-    <desc/>
-  </programme>
-  <programme start="20250523184000 +0000" stop="20250523185000 +0000" channel="the-holiday-tv-channel" clumpidx="0/1">
-    <title>Howdy Doody Christmas (1951)</title>
     <desc/>
   </programme>
   <programme start="20250523185000 +0000" stop="20250523204800 +0000" channel="the-holiday-tv-channel" clumpidx="0/1">
@@ -11842,10 +11856,6 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>amctv_ep5_m-music (divas countdown)_slogo</title>
     <desc/>
   </programme>
-  <programme start="20250523184400 +0000" stop="20250523185700 +0000" channel="skull-bound-tv" clumpidx="0/1">
-    <title>Spot and Stalk Antelope</title>
-    <desc>Join host and skull artist Jana Waller as she takes viewers on hunting and fishing adventures across the globe, featuring breathtaking scenery and incredible wildlife.</desc>
-  </programme>
   <programme start="20250523185700 +0000" stop="20250523192300 +0000" channel="skull-bound-tv" clumpidx="0/1">
     <title>South Dakota Archery Mule Deer</title>
     <desc>Join host and skull artist Jana Waller as she takes viewers on hunting and fishing adventures across the globe, featuring breathtaking scenery and incredible wildlife.</desc>
@@ -11922,10 +11932,6 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>Billy The Kid Returns</title>
     <desc/>
   </programme>
-  <programme start="20250523182200 +0000" stop="20250523185400 +0000" channel="history-film-channel" clumpidx="0/1">
-    <title>Battle Line - Dieppe</title>
-    <desc/>
-  </programme>
   <programme start="20250523185400 +0000" stop="20250523204900 +0000" channel="history-film-channel" clumpidx="0/1">
     <title>Outpost In Morocco</title>
     <desc/>
@@ -11940,10 +11946,6 @@ The duo also explores how NIL is reshaping the future of college football govern
   </programme>
   <programme start="20250523214400 +0000" stop="20250523235400 +0000" channel="history-film-channel" clumpidx="0/1">
     <title>Battle of the Eagles</title>
-    <desc/>
-  </programme>
-  <programme start="20250523173200 +0000" stop="20250523185200 +0000" channel="hollywood-classic-movies" clumpidx="0/1">
-    <title>The Monster Maker</title>
     <desc/>
   </programme>
   <programme start="20250523185200 +0000" stop="20250523200700 +0000" channel="hollywood-classic-movies" clumpidx="0/1">
@@ -11990,8 +11992,8 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>Mutiny</title>
     <desc/>
   </programme>
-  <programme start="20250523184300 +0000" stop="20250523185300 +0000" channel="the-spanish-family-channel" clumpidx="0/1">
-    <title>Max Fleischer - Play Safe (en español)</title>
+  <programme start="20250523225500 +0000" stop="20250523231500 +0000" channel="the-family-tv-channel" clumpidx="0/1">
+    <title>Disorder in the Court</title>
     <desc/>
   </programme>
   <programme start="20250523185300 +0000" stop="20250523204400 +0000" channel="the-spanish-family-channel" clumpidx="0/1">
@@ -12032,6 +12034,10 @@ The duo also explores how NIL is reshaping the future of college football govern
   </programme>
   <programme start="20250523221900 +0000" stop="20250523224800 +0000" channel="the-spanish-family-channel" clumpidx="0/1">
     <title>The Lone Ranger (en español) - Rustlers Hideout</title>
+    <desc/>
+  </programme>
+  <programme start="20250523224800 +0000" stop="20250524000100 +0000" channel="the-spanish-family-channel" clumpidx="0/1">
+    <title>The Crooked Trail</title>
     <desc/>
   </programme>
   <programme start="20250523184600 +0000" stop="20250523192300 +0000" channel="toonovation" clumpidx="0/1">
@@ -12076,6 +12082,14 @@ The duo also explores how NIL is reshaping the future of college football govern
   </programme>
   <programme start="20250523221800 +0000" stop="20250523225100 +0000" channel="toonovation" clumpidx="0/1">
     <title>Betty Boop and Friends - E11</title>
+    <desc/>
+  </programme>
+  <programme start="20250523225100 +0000" stop="20250523230000 +0000" channel="toonovation" clumpidx="0/1">
+    <title>Herman - The Henpecked Rooster</title>
+    <desc/>
+  </programme>
+  <programme start="20250523230000 +0000" stop="20250523230900 +0000" channel="toonovation" clumpidx="0/1">
+    <title>Felix The Cat - The Goose That Laid The Golden Egg</title>
     <desc/>
   </programme>
   <programme start="20250523184500 +0000" stop="20250523191200 +0000" channel="viajar-tv" clumpidx="0/1">
@@ -12138,6 +12152,10 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>buenos vecinos</title>
     <desc/>
   </programme>
+  <programme start="20250523225800 +0000" stop="20250524005700 +0000" channel="box-cinema" clumpidx="0/1">
+    <title>30 noches con mi ex</title>
+    <desc/>
+  </programme>
   <programme start="20250523165000 +0000" stop="20250523192500 +0000" channel="box-gamers" clumpidx="0/1">
     <title>box gamers - maraton free fire con gabi</title>
     <desc/>
@@ -12182,16 +12200,8 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>Resguardado</title>
     <desc/>
   </programme>
-  <programme start="20250523184600 +0000" stop="20250523185100 +0000" channel="hits-mexicanos" clumpidx="0/1">
-    <title>hits mexicanos -79</title>
-    <desc/>
-  </programme>
-  <programme start="20250523185100 +0000" stop="20250523185600 +0000" channel="hits-mexicanos" clumpidx="0/1">
-    <title>hits mexicanos -27</title>
-    <desc/>
-  </programme>
-  <programme start="20250523185600 +0000" stop="20250523185900 +0000" channel="hits-mexicanos" clumpidx="0/1">
-    <title>id - hits mexicanos - pack 05</title>
+  <programme start="20250523225600 +0000" stop="20250524003900 +0000" channel="digo-tv" clumpidx="0/1">
+    <title>Infieles</title>
     <desc/>
   </programme>
   <programme start="20250523185900 +0000" stop="20250523190200 +0000" channel="hits-mexicanos" clumpidx="0/1">
@@ -12406,12 +12416,20 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>hits mexicanos - las rolas 01</title>
     <desc/>
   </programme>
-  <programme start="20250523184600 +0000" stop="20250523185000 +0000" channel="rockola-television" clumpidx="0/1">
-    <title>classic rock 90s - rockola television song (50)</title>
+  <programme start="20250523224800 +0000" stop="20250523225300 +0000" channel="hits-mexicanos" clumpidx="0/1">
+    <title>super rolas hits mexicanos-29</title>
     <desc/>
   </programme>
-  <programme start="20250523185000 +0000" stop="20250523185400 +0000" channel="rockola-television" clumpidx="0/1">
-    <title>classic rock 90s - rockola television song (34)</title>
+  <programme start="20250523225300 +0000" stop="20250523225600 +0000" channel="hits-mexicanos" clumpidx="0/1">
+    <title>andamos de hits - (39)</title>
+    <desc/>
+  </programme>
+  <programme start="20250523225600 +0000" stop="20250523225900 +0000" channel="hits-mexicanos" clumpidx="0/1">
+    <title>hits mexicanos -140</title>
+    <desc/>
+  </programme>
+  <programme start="20250523225900 +0000" stop="20250523230500 +0000" channel="hits-mexicanos" clumpidx="0/1">
+    <title>solo hits - (26)</title>
     <desc/>
   </programme>
   <programme start="20250523185400 +0000" stop="20250523190100 +0000" channel="rockola-television" clumpidx="0/1">
@@ -12598,8 +12616,12 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>classic rock 90s - rockola television song (8)</title>
     <desc/>
   </programme>
-  <programme start="20250523182300 +0000" stop="20250523185800 +0000" channel="nigbati-tv" clumpidx="0/1">
-    <title>amctv_ep2_yoruba dun lede_ext</title>
+  <programme start="20250523224900 +0000" stop="20250523225300 +0000" channel="rockola-television" clumpidx="0/1">
+    <title>clasicos 80s en ingles - rockola television song (14)</title>
+    <desc/>
+  </programme>
+  <programme start="20250523225300 +0000" stop="20250523230000 +0000" channel="rockola-television" clumpidx="0/1">
+    <title>clasicos 80s en ingles - rockola television song (33)</title>
     <desc/>
   </programme>
   <programme start="20250523185800 +0000" stop="20250523201200 +0000" channel="nigbati-tv" clumpidx="0/1">
@@ -12633,10 +12655,6 @@ The duo also explores how NIL is reshaping the future of college football govern
   <programme start="20250523223000 +0000" stop="20250523233000 +0000" channel="living-india-news" clumpidx="0/1">
     <title>Morning News</title>
     <desc>Khabar Punjabi</desc>
-  </programme>
-  <programme start="20250523170500 +0000" stop="20250523185600 +0000" channel="urban-action-channel" clumpidx="0/1">
-    <title>Black Cobra</title>
-    <desc/>
   </programme>
   <programme start="20250523185600 +0000" stop="20250523202200 +0000" channel="urban-action-channel" clumpidx="0/1">
     <title>Speeding Up Time</title>
@@ -12686,10 +12704,6 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>Custer</title>
     <desc/>
   </programme>
-  <programme start="20250523181835 +0000" stop="20250523185847 +0000" channel="a-z-black-cinema" clumpidx="0/1">
-    <title>The Drowning</title>
-    <desc>Su pequeño hijo Daniel desapareció hace años, pero ayer, ella lo vio...</desc>
-  </programme>
   <programme start="20250523185847 +0000" stop="20250523194942 +0000" channel="a-z-black-cinema" clumpidx="0/1">
     <title>El Refugio</title>
     <desc>Una pequeña comunidad idílica, donde todos se conocen y tiene un gran talento para mantener las apariencias.</desc>
@@ -12705,10 +12719,6 @@ The duo also explores how NIL is reshaping the future of college football govern
   <programme start="20250523223008 +0000" stop="20250524000556 +0000" channel="a-z-black-cinema" clumpidx="0/1">
     <title>El Peleador</title>
     <desc>Su plan de escape, así como todas las personas que lo rodean, estarán en peligro.</desc>
-  </programme>
-  <programme start="20250523181835 +0000" stop="20250523185847 +0000" channel="a-z-classic-flix" clumpidx="0/1">
-    <title>The Drowning</title>
-    <desc>Su pequeño hijo Daniel desapareció hace años, pero ayer, ella lo vio...</desc>
   </programme>
   <programme start="20250523185847 +0000" stop="20250523194942 +0000" channel="a-z-classic-flix" clumpidx="0/1">
     <title>El Refugio</title>
@@ -12737,16 +12747,6 @@ The duo also explores how NIL is reshaping the future of college football govern
   <programme start="20250523210000 +0000" stop="20250523230300 +0000" channel="a-z-western-grit" clumpidx="0/1">
     <title>The Proud and the Damned</title>
     <desc/>
-  </programme>
-  <programme start="20250523184724 +0000" stop="20250523185245 +0000" channel="ourvinyl" clumpidx="0/1">
-    <title>Billy! - Cheek Full</title>
-    <desc/>
-    <icon>https://streaming002.muxip.com/file/thumbnail/a7b6f95e-c795-4611-9622-4577d27e5c0f.jpg</icon>
-  </programme>
-  <programme start="20250523185245 +0000" stop="20250523185857 +0000" channel="ourvinyl" clumpidx="0/1">
-    <title>Evan Bartels - The Devil, God &amp; Me</title>
-    <desc/>
-    <icon>https://streaming002.muxip.com/file/thumbnail/521710f2-9916-42d6-823b-c479e0713e0f.jpg</icon>
   </programme>
   <programme start="20250523185857 +0000" stop="20250523190414 +0000" channel="ourvinyl" clumpidx="0/1">
     <title>Caravan of Thieves - Eat You</title>
@@ -12813,11 +12813,6 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc/>
     <icon>https://streaming002.muxip.com/file/thumbnail/ef405411-1e4e-4eaa-8b71-5f29c50a7ea2.jpg</icon>
   </programme>
-  <programme start="20250523182918 +0000" stop="20250523185915 +0000" channel="my-money" clumpidx="0/1">
-    <title>Julie</title>
-    <desc>Julie - Princess</desc>
-    <icon>https://streaming002.muxip.com/file/thumbnail/30dff1eb-73a0-4fb6-860c-811ad15ea66d.jpg</icon>
-  </programme>
   <programme start="20250523185915 +0000" stop="20250523192913 +0000" channel="my-money" clumpidx="0/1">
     <title>Laura</title>
     <desc>Laura - Princess</desc>
@@ -12858,25 +12853,10 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc>Piano Man Rules - Buy it Fix It Sell It</desc>
     <icon>https://streaming002.muxip.com/file/thumbnail/d32d88f9-46d7-4f1b-9154-1e2cb2780141.jpg</icon>
   </programme>
-  <programme start="20250523184557 +0000" stop="20250523184732 +0000" channel="sports-first-tv" clumpidx="0/1">
-    <title>23MAY NFL Brock Purdy 25-.mp4</title>
-    <desc/>
-    <icon>https://streaming002.muxip.com/file/thumbnail/52d441ce-0fee-46cf-84fe-14957a9135b9.jpg</icon>
-  </programme>
-  <programme start="20250523184732 +0000" stop="20250523185001 +0000" channel="sports-first-tv" clumpidx="0/1">
-    <title>22MAY NFL Olympics 24-.mp4</title>
-    <desc/>
-    <icon>https://streaming002.muxip.com/file/thumbnail/de0a0dab-14b6-4c81-9c30-17f8965819c8.jpg</icon>
-  </programme>
-  <programme start="20250523185001 +0000" stop="20250523185154 +0000" channel="sports-first-tv" clumpidx="0/1">
-    <title>22MAY NFL Sirianni 24-.mp4</title>
-    <desc/>
-    <icon>https://streaming002.muxip.com/file/thumbnail/ba9cb444-2499-4d66-9ae7-908089bd0e6c.jpg</icon>
-  </programme>
-  <programme start="20250523185154 +0000" stop="20250523185748 +0000" channel="sports-first-tv" clumpidx="0/1">
-    <title>20MAY ITALIAN OPEN FINAL -22 .mp4</title>
-    <desc/>
-    <icon>https://streaming002.muxip.com/file/thumbnail/d96da7c3-ccb2-4fe4-becd-9a1960674d47.jpg</icon>
+  <programme start="20250523225901 +0000" stop="20250523232858 +0000" channel="my-money" clumpidx="0/1">
+    <title>Sweat it Out</title>
+    <desc>Sweat it Out - Buy it Fix It Sell It</desc>
+    <icon>https://streaming002.muxip.com/file/thumbnail/9054c1c4-97a1-4735-8b1e-7ba5e40a7b2b.jpg</icon>
   </programme>
   <programme start="20250523185748 +0000" stop="20250523190112 +0000" channel="sports-first-tv" clumpidx="0/1">
     <title>AP20 Robot Half-marathon200425_2204</title>
@@ -13183,9 +13163,10 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc/>
     <icon>https://streaming002.muxip.com/file/thumbnail/983f8061-6541-4f77-9c20-2beb8ffdc5bc.jpg</icon>
   </programme>
-  <programme start="20250523175617 +0000" stop="20250523185419 +0000" channel="cirque-du-soleil" clumpidx="0/1">
-    <title>Totem – Totem Stories</title>
-    <desc>Get to know the artists of Totem as they adjust to the first days on tour.</desc>
+  <programme start="20250523225953 +0000" stop="20250523231118 +0000" channel="sports-first-tv" clumpidx="0/1">
+    <title>LEGENDS MICHAEL SCHUMACHER IA Part 3</title>
+    <desc/>
+    <icon>https://streaming002.muxip.com/file/thumbnail/47af9a10-1265-4057-938f-1646dc527d89.jpg</icon>
   </programme>
   <programme start="20250523185419 +0000" stop="20250523193826 +0000" channel="cirque-du-soleil" clumpidx="0/1">
     <title>Best Of</title>
@@ -13485,11 +13466,6 @@ The duo also explores how NIL is reshaping the future of college football govern
     <desc>Wild Nature - Episode 1</desc>
     <icon>https://streaming002.muxip.com/file/thumbnail/e7f910ce-6ef4-4a56-a78f-dd9f0bf80911.png</icon>
   </programme>
-  <programme start="20250523181937 +0000" stop="20250523185731 +0000" channel="wild-tv" clumpidx="0/1">
-    <title>Marlin for Marty</title>
-    <desc>Legendary NHL Goaltender Marty Turco joins Brendan and Steve Rae in Cabo San Lucas for an epic day on the water.</desc>
-    <icon>https://streaming002.muxip.com/file/thumbnail/c8e02bfc-a55c-41e8-8af5-1c5d86c81c64.jpg</icon>
-  </programme>
   <programme start="20250523185731 +0000" stop="20250523193655 +0000" channel="wild-tv" clumpidx="0/1">
     <title>Mesquite</title>
     <desc>Texas is known for being target rich, and the boys have proven that. They shot so many bucks in October it barely fits into an episode!</desc>
@@ -13669,16 +13645,6 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>Mahua Akhara</title>
     <desc>Mahua Akhara</desc>
   </programme>
-  <programme start="20250523182745 +0000" stop="20250523185746 +0000" channel="chicas-guapas-tv" clumpidx="0/1">
-    <title>Desayuno y desfile Revista Aló + Hairssime + Colombia Moda 2024 + Estética | PROGRAMA COMPLETO</title>
-    <desc>Programa completo de #ChicasGuapasTV:
-
-- Lucía Ugarte desde el Desayuno de Mujeres Aló @AloRevista.
-- @HairssimeProfesional lanzó su colección Iconos de Nusense Lumine: hablamos con Guillermina Valdéz, embajadora de la marca, Majo Martino, "Mucho Peluquería", "Guardia House", Maru Gándara, Flor Giberti y Julieta Expósito, técnicas de la marca. 
-- Cobertura exclusiva de #colombiamoda 2024 con Kahren Rondon. 
-- Las últimas tendencias en #dermatologiaestetica con la Dra. Luciana Fernandes.</desc>
-    <icon>https://img.static-ottera.com/prod/chg/video/thumbnails/widescreen/1920x1080/img_3674.jpg</icon>
-  </programme>
   <programme start="20250523185746 +0000" stop="20250523192746 +0000" channel="chicas-guapas-tv" clumpidx="0/1">
     <title>Miami Fashion Week + Porno y Helado + Cómo si fuéramos sólo amigos</title>
     <desc>Miami Fashion Week + Porno y Helado + Cómo Si fuéramos sólo amigos</desc>
@@ -13733,5 +13699,10 @@ The duo also explores how NIL is reshaping the future of college football govern
     <title>Latin Grammy en Miami con Diego Torres + Desfile Marian Saud</title>
     <desc>Latin Grammy en Miami con Diego Torres + Desfile Marian Saud</desc>
     <icon>https://img.static-ottera.com/prod/chg/video/thumbnails/widescreen/1920x1080/img_1730.jpg</icon>
+  </programme>
+  <programme start="20250523225852 +0000" stop="20250523232852 +0000" channel="chicas-guapas-tv" clumpidx="0/1">
+    <title>Distrito Moda Colombia + Custo Barcelona + Inauguración Alas + Bonus Track Colombia</title>
+    <desc>Chicas Guapas is the first TV and online community of fashion, beauty and lifestyle with #EmbajadorasChicasGuapas. They are Latin American influencers in Argentina, Uruguay, Chile, Mexico, Colombia, Ecuador, Peru, Paraguay, Costa Rica, Venezuela and the UK. In Chicas Guapas, the audience can become a protagonist by voting weekly their favorite makeup and hair tutorials, contesting for tickets to exclusive events, meeting emerging designers &amp; celebrities and exploring the trends of each season from the hand of our #EmbajadorasChicasGuapas . Chicas Guapas has more than 97 million monthly impressions. It was created and is directed by Lucía Ugarte, from Buenos Aires, Argentina.</desc>
+    <icon>https://img.static-ottera.com/prod/chg/video/thumbnails/widescreen/1920x1080/distrito-moda-2024-2.jpg</icon>
   </programme>
 </tv>

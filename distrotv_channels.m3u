@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/kjy23/distor/master/distrotv_epg.xml"
 #EXTINF:-1 channel-id="ftf-sports" tvg-id="ftf-sports" tvg-logo="https://a.jsrdn.com/hls/22729/ftf-sports/logo_20231219_202018_46.png" tvg-description="FTF Sports is an emerging worldwide network offering engaging video content established to serve the passionate fan's appreciation for competition, sportsmanship, and performance. FTF Sports features a 24/7 broadcast, including live games & events, interviews, predictions, analysis, and a variety of dynamic, original programming." group-title="Sports",FTF Sports
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ftf/FTF_SCTE_B.m3u8
 #EXTINF:-1 channel-id="fighting-spirit-tv" tvg-id="fighting-spirit-tv" tvg-logo="https://a.jsrdn.com/hls/22696/fighting-spirit-tv/logo_20231219_201616_54.png" tvg-description="Fighting Spirit is all about combat sports. Specializing in Kickboxing, MMA, Wrestling and Muay Thai." group-title="Sports",Fighting Spirit TV
