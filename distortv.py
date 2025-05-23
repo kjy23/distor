@@ -2,7 +2,7 @@ import requests
 import time
 from datetime import datetime
 from threading import Lock
-# 确保已安装 py-xmltv 包
+# 正确的导入方式，依赖于 py-xmltv 包
 from xmltv.models import xmltv
 from xsdata.formats.dataclass.serializers import XmlSerializer
 from xsdata.formats.dataclass.serializers.config import SerializerConfig
