@@ -18,7 +18,7 @@ jobs:
         python-version: '3.x' # 使用最新的 Python 3 版本
 
     - name: Install dependencies
-      run: pip install requests xsdata xmltv
+      run: pip install -r requirements.txt # 使用 requirements.txt 文件安装所有依赖
 
     - name: Generate M3U
       run: python distrotv_grabber.py # 运行你的 Python 脚本
