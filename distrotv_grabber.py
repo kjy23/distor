@@ -30,7 +30,7 @@ class Client:
             if self.feed is not None and time.time() - self.feedTime < 3600 * 12:
                 print("使用缓存的频道数据...")
                 return
-            
+
             print("正在从 API 加载频道数据...")
             try:
                 # 设置请求超时
@@ -66,7 +66,7 @@ class Client:
             if not all(k in ch for k in ["name", "img_logo", "description", "title"]):
                 print(f"警告: 频道数据不完整，跳过: {ch.get('title', '未知频道')}")
                 continue
-            
+
             # 确保直播流URL路径存在
             if not (ch.get("seasons") and ch["seasons"] and 
                     ch["seasons"][0].get("episodes") and ch["seasons"][0]["episodes"] and 
@@ -166,7 +166,7 @@ class Client:
 def generate_m3u(output_file="distrotv_channels.m3u", epg_url=None):
     """
     生成 M3U 播放列表文件，包含频道信息和直播流 URL。
-    
+
     Args:
         output_file (str): 生成的 M3U 文件名。
         epg_url (str, optional): 可选的 EPG XMLTV 文件的 URL。如果提供，
@@ -223,12 +223,13 @@ def generate_m3u(output_file="distrotv_channels.m3u", epg_url=None):
 
 # --- 主执行块 ---
 if __name__ == "__main__":
-    # 1. 定义 EPG XMLTV 文件的 URL（可选）
-    # IMPORTANT: 一旦 distrotv_epg.xml 被提交到 GitHub，
-    # 您需要将这里的 None 替换为它的公共 URL。
-    # 例如：my_epg_xmltv_url = "https://raw.githubusercontent.com/kjy23/distor/master/distrotv_epg.xml"
-    # (请确保 'master' 是您的主分支名称，如果不是的话)
-    my_epg_xmltv_url = None 
+    # 1. 定义 EPG XMLTV 文件的 URL
+    # <<<<<<<<<<<<<<<< 请在这里更新您的 EPG 公共 URL！ >>>>>>>>>>>>>>>>>>
+    # 这是 DistroTV EPG XML文件在您的GitHub仓库中的原始文件URL。
+    # 格式为: https://raw.githubusercontent.com/您的用户名/您的仓库名/您的分支/distrotv_epg.xml
+    # 示例 (根据您的仓库 'kjy23/distor' 和 'master' 分支):
+    my_epg_xmltv_url = "https://raw.githubusercontent.com/kjy23/distor/master/distrotv_epg.xml" 
+    # <<<<<<<<<<<<<<<< 确保将 'master' 替换为您实际使用的分支名，如果不是的话。 >>>>>>>>>>>>>>>>>>
 
     # 2. 调用生成 M3U 文件的函数
     print("\n--- 正在生成 M3U 播放列表 ---")

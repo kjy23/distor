@@ -35,10 +35,10 @@ jobs:
           echo "Content of distrotv_epg.xml (first 20 lines):"
           head -n 20 distrotv_epg.xml
         else
-          echo "ERROR: distrotv_epg.xml was NOT found!"
+          echo "ERROR: distrotv_epg.xml was NOT found! Please check distrotv_grabber.py output."
           exit 1 # 如果文件不存在，让这个步骤失败，阻止后续提交
         fi
-        
+
         echo "Checking for distrotv_channels.m3u..."
         if [ -f "distrotv_channels.m3u" ]; then
           echo "distrotv_channels.m3u found!"
@@ -53,11 +53,11 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        
+
         # 将 M3U 和 EPG 文件都添加到 Git 暂存区
         git add distrotv_channels.m3u
         git add distrotv_epg.xml
-        
+
         # 检查暂存区是否有实际的更改。如果有，则提交。
         if ! git diff --cached --quiet; then
           echo "Changes detected for M3U or EPG. Committing..."
@@ -66,7 +66,7 @@ jobs:
           echo "No changes to commit for M3U or EPG."
           exit 0 # 如果没有更改，则退出此步骤，不执行push
         fi
-        
+
         # 如果有新的提交，则推送到远程仓库
         # 注意：默认的 GITHUB_TOKEN 通常只有读权限。
         # 如果您遇到推送权限问题（例如，由于分支保护），
