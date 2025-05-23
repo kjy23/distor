@@ -1,32 +1,63 @@
 name: Generate DistroTV M3U
 
 on:
-  workflow_dispatch: # 允许手动触发
+  workflow_dispatch: # 允许在 GitHub Actions 界面手动触发
   schedule:
     - cron: '0 */6 * * *' # 每6小时运行一次 (例如：UTC时间 0点, 6点, 12点, 18点)
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest # 使用最新的 Ubuntu 操作系统作为运行环境
+
     steps:
-    - name: Checkout repository
+    - name: Checkout repository # 检出代码到工作目录
       uses: actions/checkout@v4
 
-    - name: Set up Python
+    - name: Set up Python # 设置 Python 环境
       uses: actions/setup-python@v5
       with:
         python-version: '3.x' # 使用最新的 Python 3 版本
 
-    - name: Install dependencies
-      run: pip install -r requirements.txt # 使用 requirements.txt 文件安装所有依赖
+    - name: Install dependencies # 安装 requirements.txt 中列出的所有依赖
+      run: pip install -r requirements.txt
 
-    - name: Generate M3U
-      run: python distrotv_grabber.py # 运行你的 Python 脚本
+    # 调试步骤 (可选，如果脚本已经能正常运行，可以移除)
+    # - name: List files for debugging
+    #   run: |
+    #     echo "Current working directory:"
+    #     pwd
+    #     echo "Files in current directory:"
+    #     ls -l
+    #     echo "Files in repository root ($GITHUB_WORKSPACE):"
+    #     ls -l ${{ github.workspace }}
+    #     echo "--- End of file listing ---"
 
-    - name: Commit and push M3U if changed
+    - name: Generate M3U # 运行 Python 脚本生成 M3U 文件
+      # 使用 ${{ github.workspace }} 变量来确保准确找到位于仓库根目录的脚本
+      run: python ${{ github.workspace }}/distrotv_grabber.py
+
+    - name: Commit and push M3U if changed # 如果 M3U 文件有变化则提交并推送回仓库
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        
+        # 检查是否有文件更改，如果有，则添加到暂存区
         git add distrotv_channels.m3u
-        git commit -m "Update DistroTV M3U" || echo "No changes to commit"
-        git push || echo "Nothing to push"
+        
+        # 尝试提交。--allow-empty-message 或 --no-verify 可以避免一些提交失败，
+        # 但如果确实没有更改，最好用 || true 让其跳过
+        # 更常用且推荐的做法是检查状态再提交
+        if ! git diff --cached --quiet distrotv_channels.m3u; then
+          echo "Changes detected for distrotv_channels.m3u. Committing..."
+          git commit -m "Update DistroTV M3U"
+        else
+          echo "No changes in distrotv_channels.m3u to commit."
+          exit 0 # 如果没有更改，则退出此步骤，不执行push
+        fi
+        
+        # 如果有新的提交，则推送到远程仓库
+        git push || echo "No new commits to push or push failed (e.g. branch protection)."
+      env:
+        # 这里需要一个 Personal Access Token (PAT) 来进行推送操作
+        # 请确保您的 PAT 具有 'repo' 权限，并在仓库 Settings -> Secrets -> Actions 中添加
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 默认的 GITHUB_TOKEN 通常只有读权限，需要自建PAT
