@@ -2,7 +2,7 @@ import requests
 import time
 from datetime import datetime
 from threading import Lock
-# 导入 xmltv 和 xsdata 库，尽管生成M3U不需要，但为了Client类的完整性保留
+# xmltv 模型的导入，通常由 xsdata 提供
 from xmltv.models import xmltv
 from xsdata.formats.dataclass.serializers import XmlSerializer
 from xsdata.formats.dataclass.serializers.config import SerializerConfig
