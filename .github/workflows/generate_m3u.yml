@@ -21,20 +21,33 @@ jobs:
     - name: Install dependencies # 安装 requirements.txt 中列出的所有依赖
       run: pip install -r requirements.txt
 
-    # 调试步骤 (可选：如果脚本和路径已确认无误，可以删除此整个步骤以保持日志简洁)
-    # - name: List files for debugging
-    #   run: |
-    #     echo "Current working directory:"
-    #     pwd
-    #     echo "Files in current directory:"
-    #     ls -l
-    #     echo "Files in repository root ($GITHUB_WORKSPACE):"
-    #     ls -l ${{ github.workspace }}
-    #     echo "--- End of file listing ---"
-
     - name: Generate M3U and EPG # 运行 Python 脚本生成 M3U 和 EPG 文件
       # 使用 ${{ github.workspace }} 变量确保准确找到位于仓库根目录的脚本
       run: python ${{ github.workspace }}/distrotv_grabber.py
+
+    - name: Verify generated files exist # 新增的调试步骤，用于检查文件是否存在
+      run: |
+        echo "Listing files in current directory (should be repository root):"
+        ls -l
+        echo "Checking for distrotv_epg.xml..."
+        if [ -f "distrotv_epg.xml" ]; then
+          echo "distrotv_epg.xml found!"
+          echo "Content of distrotv_epg.xml (first 20 lines):"
+          head -n 20 distrotv_epg.xml
+        else
+          echo "ERROR: distrotv_epg.xml was NOT found!"
+          exit 1 # 如果文件不存在，让这个步骤失败，阻止后续提交
+        fi
+        
+        echo "Checking for distrotv_channels.m3u..."
+        if [ -f "distrotv_channels.m3u" ]; then
+          echo "distrotv_channels.m3u found!"
+          echo "Content of distrotv_channels.m3u (first 20 lines):"
+          head -n 20 distrotv_channels.m3u
+        else
+          echo "ERROR: distrotv_channels.m3u was NOT found!"
+          exit 1 # 如果文件不存在，让这个步骤失败
+        fi
 
     - name: Commit and push M3U and EPG if changed # 如果 M3U 或 EPG 文件有变化则提交并推送回仓库
       run: |

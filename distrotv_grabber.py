@@ -2,7 +2,7 @@ import requests
 import time
 from datetime import datetime
 from threading import Lock
-# 正确的导入方式，依赖于 py-xmltv 包
+# 确保已安装 py-xmltv 包，因为 xmltv.models 由它提供
 from xmltv.models import xmltv
 from xsdata.formats.dataclass.serializers import XmlSerializer
 from xsdata.formats.dataclass.serializers.config import SerializerConfig
@@ -92,7 +92,6 @@ class Client:
     def epg(self):
         """
         生成 XMLTV 格式的电子节目单 (EPG)。
-        此方法在生成 M3U 时不是必需的，但作为Client类的功能保留。
         """
         try:
             self.load_feed()
@@ -224,31 +223,29 @@ def generate_m3u(output_file="distrotv_channels.m3u", epg_url=None):
 
 # --- 主执行块 ---
 if __name__ == "__main__":
-    # 示例用法：
-
     # 1. 定义 EPG XMLTV 文件的 URL（可选）
-    # 如果你把 epg() 方法生成的 XMLTV 保存到例如你的服务器上，可以填入该 URL
-    # 例如：my_epg_xmltv_url = "http://your-domain.com/distrotv_epg.xml"
-    my_epg_xmltv_url = None # 默认为 None，不添加 url-tvg 属性
+    # IMPORTANT: 一旦 distrotv_epg.xml 被提交到 GitHub，
+    # 您需要将这里的 None 替换为它的公共 URL。
+    # 例如：my_epg_xmltv_url = "https://raw.githubusercontent.com/kjy23/distor/master/distrotv_epg.xml"
+    # (请确保 'master' 是您的主分支名称，如果不是的话)
+    my_epg_xmltv_url = None 
 
     # 2. 调用生成 M3U 文件的函数
     print("\n--- 正在生成 M3U 播放列表 ---")
     generate_m3u(output_file="distrotv_channels.m3u", epg_url=my_epg_xmltv_url)
 
-    # 3. (可选) 如果你还需要生成 XMLTV EPG 文件：
-    # 注意：生成 EPG 可能需要较长时间，且如果 API 不支持 EPG，可能不会成功。
-    # 如果你确定需要 EPG，并且希望将其保存到本地，可以取消注释下面的代码块。
-    # print("\n--- 尝试生成 XMLTV EPG 文件 (这可能需要一些时间) ---")
-    # client_for_epg_generation = Client()
-    # try:
-    #     epg_xml_content = client_for_epg_generation.epg()
-    #     if epg_xml_content:
-    #         with open("distrotv_epg.xml", "w", encoding="utf-8") as f:
-    #             f.write(epg_xml_content)
-    #         print("XMLTV EPG 文件已成功生成到 'distrotv_epg.xml'。")
-    #     else:
-    #         print("未能生成 XMLTV EPG 文件，可能没有 EPG 数据或发生错误。")
-    # except Exception as e:
-    #     print(f"生成 EPG 文件失败: {e}")
+    # 3. 生成 XMLTV EPG 文件：此代码块确保 distrotv_epg.xml 被生成
+    print("\n--- 尝试生成 XMLTV EPG 文件 (这可能需要一些时间) ---")
+    client_for_epg_generation = Client()
+    try:
+        epg_xml_content = client_for_epg_generation.epg()
+        if epg_xml_content:
+            with open("distrotv_epg.xml", "w", encoding="utf-8") as f:
+                f.write(epg_xml_content)
+            print("XMLTV EPG 文件已成功生成到 'distrotv_epg.xml'。")
+        else:
+            print("未能生成 XMLTV EPG 文件，可能没有 EPG 数据或发生错误。")
+    except Exception as e:
+        print(f"生成 EPG 文件失败: {e}")
 
     print("\n--- 脚本执行完毕 ---")
