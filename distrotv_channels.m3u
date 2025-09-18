@@ -692,3 +692,5 @@ By presenting news in Punjabi, P18 connects deeply with regional audiences, whil
 
 P18 avoids sensationalism and fake news, focusing instead on honest journalism and public interest reporting. Available on TV, digital platforms, and social media, P18 ensures that audiences of all age groups stay connected to what’s happening around them." group-title="News",P18 News
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/p18-news/index.m3u8
+#EXTINF:-1 channel-id="big-tv" tvg-id="big-tv" tvg-logo="https://a.jsrdn.com/hls/23215/big-tv/logo_20250911_175211_70.png" tvg-description="BigTv Telugu is a 24×7, tech-driven Telugu news channel offering swift breaking news, live debates, political analysis, entertainment, sports, devotional segments, and OTT streaming for Andhra Pradesh and Telangana." group-title="News",Big Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/big-tv/index.m3u8
